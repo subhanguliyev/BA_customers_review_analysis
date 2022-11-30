@@ -1,72 +1,3422 @@
 ,country,stars,date
-0,United Kingdom,7,2022-07-23
-1,Canada,6,2022-06-05
-2,United Kingdom,8,2021-09-26
-3,Singapore,9,2020-01-08
-4,Germany,7,2019-10-29
-5,United Kingdom,9,2019-10-05
-6,Switzerland,5,2018-10-16
-7,United Kingdom,9,2018-08-22
-8,United Kingdom,6,2018-07-26
-9,United Kingdom,3,2018-06-30
-10,United Kingdom,7,2018-05-29
-11,United Kingdom,10,2018-04-29
-12,United Kingdom,7,2018-04-11
-13,Netherlands,8,2018-03-28
-14,United Kingdom,10,2018-03-20
-15,Australia,8,2018-02-04
-16,Netherlands,8,2017-10-17
-17,United Kingdom,9,2017-09-24
-18,United Kingdom,10,2017-05-11
-19,United Kingdom,8,2017-04-18
-20,United Kingdom,9,2017-03-25
-21,United Kingdom,10,2017-02-24
-22,United Kingdom,10,2017-02-21
-23,Switzerland,5,2017-01-28
-24,United Kingdom,10,2016-12-16
-25,United Kingdom,8,2016-08-16
-26,United Kingdom,10,2016-07-30
-27,United Kingdom,10,2016-06-14
-28,Netherlands,9,2016-05-21
-29,United Kingdom,9,2016-04-07
-30,Switzerland,8,2016-03-27
-31,United Kingdom,8,2016-02-22
-32,Spain,10,2016-01-09
-33,United Kingdom,10,2015-10-11
-34,Austria,10,2015-06-22
-35,United Kingdom,10,2015-06-12
-36,United Kingdom,9,2014-10-12
-37,United Kingdom,8,2014-09-09
-38,United Kingdom,10,2014-09-01
-39,United Kingdom,10,2014-06-04
-40,United Kingdom,10,2014-06-01
-41,United Kingdom,8,2014-05-28
-42,United Kingdom,6,2014-01-14
-43,United Kingdom,7,2013-10-25
-44,Australia,9,2013-10-25
-46,United Kingdom,9,2013-09-12
-47,United Kingdom,10,2013-08-26
-48,United Kingdom,10,2013-07-01
-49,United Kingdom,6,2013-04-16
-50,United Kingdom,8,2013-03-21
-51,United Kingdom,10,2012-10-09
-52,United Kingdom,4,2012-08-21
-53,United Kingdom,8,2012-07-25
-54,United Kingdom,10,2012-07-16
-55,United Kingdom,8,2012-05-22
-56,United Kingdom,10,2012-04-16
-57,Spain,7,2011-11-29
-58,United Kingdom,5,2011-11-24
-59,United Kingdom,8,2011-09-15
-60,Singapore,10,2011-08-17
-61,Spain,5,2011-07-11
-62,United Kingdom,9,2011-06-06
-63,United Kingdom,2,2011-04-26
-64,United Kingdom,10,2011-03-14
-65,United Kingdom,8,2011-01-02
-66,United Kingdom,10,2010-10-12
-67,United Kingdom,10,2010-07-06
-68,United Kingdom,8,2010-05-26
-69,United Kingdom,8,2010-03-04
-70,United Kingdom,1,2010-03-01
-71,United Kingdom,9,2010-02-22
+0,United Kingdom,9,2022-11-30
+1,United States,2,2022-11-28
+2,United Kingdom,7,2022-11-26
+3,Canada,7,2022-11-25
+4,United States,1,2022-11-23
+5,Canada,4,2022-11-19
+6,United States,1,2022-11-19
+7,United Kingdom,2,2022-11-18
+8,Italy,1,2022-11-07
+9,Malaysia,5,2022-11-07
+10,United Arab Emirates,1,2022-11-05
+11,United States,1,2022-10-31
+12,United States,1,2022-10-31
+13,United Kingdom,6,2022-10-31
+14,United Kingdom,1,2022-10-30
+15,United States,9,2022-10-30
+16,United States,9,2022-10-30
+17,United Kingdom,3,2022-10-25
+18,United States,9,2022-10-24
+19,United States,2,2022-10-23
+20,Malaysia,8,2022-10-22
+21,United Kingdom,1,2022-10-22
+22,United Kingdom,3,2022-10-21
+23,United States,7,2022-10-17
+24,United Kingdom,8,2022-10-17
+25,United Kingdom,9,2022-10-17
+26,United States,1,2022-10-16
+27,United States,10,2022-10-15
+28,United Kingdom,3,2022-10-14
+29,United States,6,2022-10-06
+30,United Kingdom,7,2022-10-01
+31,United Kingdom,8,2022-10-01
+32,United States,3,2022-09-25
+33,United States,9,2022-09-25
+34,Singapore,1,2022-09-24
+35,United Kingdom,10,2022-09-23
+36,Netherlands,10,2022-09-20
+37,Australia,4,2022-09-16
+38,United Kingdom,5,2022-09-14
+39,United States,1,2022-09-11
+40,United Kingdom,2,2022-09-10
+41,New Zealand,2,2022-09-07
+42,United Kingdom,7,2022-09-07
+43,United Kingdom,1,2022-09-06
+44,United Kingdom,4,2022-08-31
+45,United States,1,2022-08-28
+46,United Kingdom,10,2022-08-23
+47,United Kingdom,9,2022-08-23
+48,United Kingdom,1,2022-08-22
+49,United Kingdom,1,2022-08-21
+50,United States,1,2022-08-20
+51,Ireland,10,2022-08-15
+52,United States,10,2022-08-10
+53,South Africa,1,2022-08-04
+54,United States,8,2022-07-31
+55,United Kingdom,1,2022-07-30
+56,United Kingdom,1,2022-07-27
+57,Ghana,2,2022-07-27
+58,United States,2,2022-07-27
+59,United Kingdom,8,2022-07-23
+60,United Kingdom,1,2022-07-22
+61,United States,1,2022-07-22
+62,Netherlands,1,2022-07-20
+63,United Kingdom,5,2022-07-18
+64,Australia,5,2022-07-18
+65,United Kingdom,7,2022-07-17
+66,United Kingdom,1,2022-07-13
+67,Canada,10,2022-07-12
+68,United Kingdom,8,2022-07-09
+69,United States,1,2022-07-07
+70,United States,2,2022-07-06
+71,United States,1,2022-07-06
+72,Italy,4,2022-07-04
+73,United States,1,2022-07-04
+74,South Africa,6,2022-06-30
+75,Ireland,1,2022-06-30
+76,United States,1,2022-06-29
+77,Australia,1,2022-06-28
+78,United States,1,2022-06-27
+79,Canada,1,2022-06-27
+80,Netherlands,1,2022-06-27
+81,Hong Kong,1,2022-06-25
+82,Singapore,1,2022-06-25
+83,United Kingdom,4,2022-06-24
+84,United Kingdom,1,2022-06-23
+85,United Kingdom,4,2022-06-23
+86,United Kingdom,5,2022-06-22
+87,United States,1,2022-06-20
+88,Canada,1,2022-06-19
+89,Canada,4,2022-06-18
+90,United Kingdom,8,2022-06-17
+91,Netherlands,2,2022-06-16
+92,United Kingdom,5,2022-06-15
+93,Germany,4,2022-06-13
+94,United States,1,2022-06-11
+95,United Kingdom,10,2022-06-08
+96,United Kingdom,10,2022-06-06
+97,United Kingdom,10,2022-06-03
+98,United Kingdom,9,2022-06-02
+99,South Africa,9,2022-06-02
+100,United Kingdom,1,2022-06-01
+101,South Africa,8,2022-05-30
+102,Switzerland,1,2022-05-30
+103,United Kingdom,1,2022-05-30
+104,United Kingdom,1,2022-05-27
+105,United Kingdom,2,2022-05-24
+106,Bermuda,1,2022-05-23
+107,United States,1,2022-05-19
+108,United Kingdom,1,2022-05-18
+109,United Kingdom,1,2022-05-18
+110,United Kingdom,3,2022-05-18
+111,Germany,2,2022-05-11
+112,United Kingdom,4,2022-05-11
+113,United Kingdom,8,2022-05-09
+114,United States,1,2022-05-08
+115,United Kingdom,3,2022-05-05
+116,United Arab Emirates,10,2022-05-04
+117,United States,2,2022-05-04
+118,Botswana,1,2022-04-29
+119,Brazil,10,2022-04-29
+120,Panama,8,2022-04-28
+121,United Kingdom,10,2022-04-27
+122,United Kingdom,1,2022-04-24
+123,United Kingdom,1,2022-04-23
+124,South Africa,1,2022-04-20
+125,Sweden,1,2022-04-20
+126,United Kingdom,9,2022-04-20
+127,United Arab Emirates,1,2022-04-16
+128,Australia,1,2022-04-15
+129,United Kingdom,7,2022-04-14
+130,United Kingdom,4,2022-04-12
+131,United States,10,2022-04-12
+132,United Kingdom,1,2022-04-11
+133,France,3,2022-04-08
+134,United States,9,2022-04-07
+135,United States,1,2022-04-07
+136,United Kingdom,2,2022-04-06
+137,United Kingdom,9,2022-04-06
+138,United Kingdom,8,2022-04-06
+139,United Kingdom,7,2022-04-04
+140,United Kingdom,1,2022-04-04
+141,United Kingdom,5,2022-04-04
+142,United Kingdom,1,2022-04-04
+143,Switzerland,5,2022-04-03
+144,Australia,2,2022-04-03
+145,United Kingdom,9,2022-04-02
+146,United Kingdom,4,2022-04-02
+147,United Kingdom,2,2022-03-31
+148,United Kingdom,1,2022-03-31
+149,United States,1,2022-03-30
+150,United Kingdom,3,2022-03-29
+151,United Kingdom,4,2022-03-29
+152,United Kingdom,1,2022-03-29
+153,United Kingdom,2,2022-03-27
+154,United Kingdom,4,2022-03-25
+155,United Kingdom,3,2022-03-19
+156,United Kingdom,3,2022-03-18
+157,United Kingdom,1,2022-03-17
+158,United Kingdom,4,2022-03-16
+159,United Kingdom,1,2022-03-11
+160,United States,1,2022-03-11
+161,United Kingdom,2,2022-03-06
+162,United States,1,2022-03-06
+163,United Kingdom,6,2022-03-05
+164,United Kingdom,1,2022-03-04
+165,United Kingdom,5,2022-03-03
+166,United Kingdom,5,2022-03-02
+167,United Kingdom,9,2022-02-28
+168,United Kingdom,5,2022-02-26
+169,Greece,1,2022-02-21
+170,United Kingdom,1,2022-02-20
+171,United Kingdom,10,2022-02-19
+172,United Kingdom,1,2022-02-18
+173,United Arab Emirates,2,2022-02-13
+174,United Kingdom,10,2022-02-13
+175,United Kingdom,1,2022-02-11
+176,United States,10,2022-02-08
+177,Canada,10,2022-02-08
+178,United Kingdom,8,2022-02-01
+179,United Kingdom,8,2022-01-25
+180,United Kingdom,5,2022-01-25
+181,United Kingdom,1,2022-01-19
+182,United Kingdom,3,2022-01-12
+183,South Africa,6,2022-01-12
+184,South Africa,10,2022-01-10
+185,United States,1,2022-01-09
+186,United Kingdom,3,2022-01-09
+187,United States,1,2022-01-09
+188,United Arab Emirates,1,2022-01-07
+189,United Kingdom,3,2022-01-06
+190,United Kingdom,3,2022-01-06
+191,United Kingdom,7,2022-01-02
+192,United States,1,2021-12-30
+193,United Kingdom,9,2021-12-29
+194,United Kingdom,9,2021-12-28
+195,United Kingdom,3,2021-12-27
+196,United Kingdom,9,2021-12-27
+197,United Kingdom,9,2021-12-24
+198,United Arab Emirates,2,2021-12-23
+199,United Kingdom,6,2021-12-20
+200,United Kingdom,1,2021-12-19
+201,United Kingdom,2,2021-12-16
+202,Switzerland,3,2021-12-12
+203,United Kingdom,1,2021-12-08
+204,United States,1,2021-12-06
+205,United Kingdom,1,2021-12-02
+206,United States,2,2021-11-29
+207,United Kingdom,4,2021-11-27
+208,Australia,1,2021-11-25
+209,United Kingdom,6,2021-11-25
+210,United Kingdom,8,2021-11-24
+211,Sweden,2,2021-11-20
+212,United Kingdom,1,2021-11-19
+213,United Kingdom,1,2021-11-15
+214,United Kingdom,5,2021-11-15
+215,United States,1,2021-11-14
+216,United Kingdom,2,2021-11-13
+217,United Kingdom,2,2021-11-13
+218,Ireland,4,2021-11-10
+219,United Kingdom,2,2021-11-07
+220,United Kingdom,10,2021-11-06
+221,United Kingdom,6,2021-10-31
+222,United Kingdom,10,2021-10-29
+223,United Kingdom,9,2021-10-29
+224,Italy,7,2021-10-25
+225,United Kingdom,8,2021-10-24
+226,United Kingdom,8,2021-10-23
+227,United Kingdom,3,2021-10-21
+228,United Kingdom,10,2021-10-20
+229,Canada,6,2021-10-19
+230,United Kingdom,10,2021-10-18
+231,United Kingdom,1,2021-10-16
+232,United Kingdom,1,2021-10-14
+233,United Kingdom,2,2021-10-07
+234,United Kingdom,7,2021-10-07
+235,United Kingdom,1,2021-10-06
+236,United Kingdom,1,2021-10-05
+237,United States,9,2021-10-04
+238,United Kingdom,8,2021-10-03
+239,United Kingdom,1,2021-10-02
+240,United Kingdom,2,2021-10-01
+241,United Kingdom,3,2021-09-26
+242,United Kingdom,7,2021-09-22
+243,United Kingdom,8,2021-09-21
+244,United Kingdom,3,2021-09-21
+245,France,1,2021-09-13
+246,Nigeria,2,2021-09-11
+247,United States,1,2021-09-09
+248,United States,1,2021-09-08
+249,United States,1,2021-09-07
+250,United Kingdom,1,2021-08-27
+251,Russian Federation,5,2021-08-26
+252,United Kingdom,10,2021-08-22
+253,United Kingdom,8,2021-08-19
+254,United Kingdom,1,2021-08-17
+255,Germany,2,2021-08-11
+256,United Kingdom,6,2021-08-08
+257,Philippines,1,2021-07-27
+258,United Kingdom,1,2021-07-22
+259,United Kingdom,8,2021-07-20
+260,United Kingdom,7,2021-07-13
+261,United Kingdom,1,2021-07-09
+262,Canada,1,2021-07-07
+263,United States,2,2021-06-27
+264,United States,4,2021-06-22
+265,United Kingdom,8,2021-06-13
+266,Ghana,9,2021-06-07
+267,United Kingdom,9,2021-05-30
+268,South Africa,1,2021-05-26
+269,United Kingdom,9,2021-05-15
+270,Spain,8,2021-04-24
+271,South Africa,5,2021-04-07
+272,United Kingdom,4,2021-04-01
+273,United Kingdom,1,2021-03-14
+274,Canada,1,2021-02-21
+275,United Kingdom,1,2021-02-20
+276,Bulgaria,1,2021-02-10
+277,United Kingdom,10,2021-02-04
+278,United Kingdom,4,2021-01-21
+279,United Kingdom,1,2020-12-30
+280,United Kingdom,9,2020-12-27
+281,United Kingdom,10,2020-12-26
+282,United Kingdom,10,2020-12-25
+283,United Kingdom,4,2020-12-09
+284,United Kingdom,7,2020-12-07
+285,United Kingdom,3,2020-12-02
+286,United Kingdom,9,2020-10-22
+287,Germany,10,2020-10-22
+288,Poland,5,2020-10-05
+289,Poland,10,2020-09-23
+290,United Kingdom,1,2020-09-18
+291,United States,1,2020-08-27
+292,Germany,2,2020-08-08
+293,Thailand,10,2020-08-01
+294,United Kingdom,2,2020-07-31
+295,United States,1,2020-07-23
+296,United Kingdom,1,2020-07-23
+297,United Kingdom,1,2020-06-11
+298,United Kingdom,8,2020-06-08
+299,United States,1,2020-06-06
+300,United States,2,2020-06-04
+301,United States,1,2020-05-29
+302,United Kingdom,1,2020-05-18
+303,United States,1,2020-05-12
+304,Canada,1,2020-05-10
+305,United Kingdom,1,2020-05-01
+306,United States,1,2020-04-29
+307,United Kingdom,10,2020-04-28
+308,United Kingdom,8,2020-04-27
+309,United Kingdom,1,2020-04-27
+310,Switzerland,2,2020-04-25
+311,United Kingdom,1,2020-04-19
+312,Poland,7,2020-04-19
+313,United Kingdom,1,2020-04-11
+314,United Kingdom,1,2020-04-04
+315,United Kingdom,1,2020-04-02
+316,United Kingdom,3,2020-04-02
+317,United Kingdom,1,2020-04-01
+318,United Kingdom,2,2020-03-31
+319,United States,3,2020-03-23
+320,United Kingdom,10,2020-03-22
+321,United Kingdom,1,2020-03-18
+322,United Kingdom,1,2020-03-17
+323,United Kingdom,1,2020-03-17
+324,United Kingdom,1,2020-03-17
+325,United Kingdom,1,2020-03-16
+326,Argentina,3,2020-03-14
+327,United Kingdom,2,2020-03-13
+328,Germany,1,2020-03-09
+329,United Kingdom,8,2020-03-08
+330,Hong Kong,9,2020-03-06
+331,United Kingdom,9,2020-03-05
+332,United Kingdom,8,2020-03-05
+333,United Kingdom,2,2020-03-03
+334,Australia,1,2020-03-03
+335,United Kingdom,4,2020-02-28
+336,United Kingdom,10,2020-02-28
+337,United Kingdom,3,2020-02-27
+338,United Kingdom,6,2020-02-26
+339,United States,1,2020-02-24
+340,United States,4,2020-02-23
+341,United Kingdom,1,2020-02-21
+342,South Africa,1,2020-02-15
+343,United States,3,2020-02-14
+344,United Kingdom,1,2020-02-14
+345,Mexico,9,2020-02-05
+346,United Kingdom,8,2020-02-04
+347,Australia,1,2020-02-02
+348,United Kingdom,3,2020-02-01
+349,Australia,7,2020-01-30
+350,United Kingdom,7,2020-01-29
+351,United Kingdom,3,2020-01-29
+352,Sweden,5,2020-01-28
+353,United Kingdom,8,2020-01-28
+354,Denmark,10,2020-01-28
+355,United States,8,2020-01-28
+356,United Kingdom,5,2020-01-26
+357,India,6,2020-01-25
+358,United States,1,2020-01-23
+359,Canada,7,2020-01-22
+360,United Kingdom,9,2020-01-21
+361,France,3,2020-01-20
+362,Singapore,1,2020-01-20
+363,Poland,9,2020-01-20
+364,United Kingdom,8,2020-01-18
+365,United Kingdom,3,2020-01-18
+366,United Kingdom,7,2020-01-17
+367,United Kingdom,2,2020-01-17
+368,United Kingdom,8,2020-01-16
+369,India,7,2020-01-14
+370,United Kingdom,1,2020-01-12
+371,United Kingdom,2,2020-01-12
+372,United Kingdom,9,2020-01-11
+373,United Kingdom,10,2020-01-11
+374,United Kingdom,3,2020-01-11
+375,United Kingdom,10,2020-01-11
+376,Canada,1,2020-01-07
+377,United Kingdom,3,2020-01-07
+378,Saint Kitts and Nevis,5,2020-01-06
+379,United States,1,2020-01-06
+380,United Kingdom,3,2020-01-05
+381,United Kingdom,2,2020-01-04
+382,United Kingdom,9,2020-01-03
+383,Greece,3,2019-12-30
+384,United Kingdom,1,2019-12-30
+385,Vietnam,6,2019-12-29
+386,South Africa,8,2019-12-27
+387,Australia,9,2019-12-27
+388,United Kingdom,7,2019-12-24
+389,United Kingdom,10,2019-12-24
+390,Germany,1,2019-12-22
+391,United Kingdom,1,2019-12-21
+392,United States,1,2019-12-18
+393,Australia,4,2019-12-18
+394,United States,1,2019-12-16
+395,United Kingdom,1,2019-12-15
+396,United Kingdom,1,2019-12-14
+397,United States,9,2019-12-13
+398,United Kingdom,1,2019-12-11
+399,Ireland,9,2019-12-10
+400,United Kingdom,1,2019-12-08
+401,Sweden,8,2019-12-08
+402,United Kingdom,1,2019-12-08
+403,United Kingdom,7,2019-12-08
+404,Sweden,9,2019-12-08
+405,Sweden,8,2019-12-08
+406,Australia,8,2019-12-08
+407,United States,1,2019-12-04
+408,United Kingdom,3,2019-12-04
+409,Belgium,5,2019-12-02
+410,Norway,1,2019-11-28
+411,Czech Republic,4,2019-11-27
+412,United Kingdom,7,2019-11-26
+413,India,3,2019-11-25
+414,United Kingdom,10,2019-11-24
+415,United States,1,2019-11-24
+416,United Kingdom,3,2019-11-20
+417,Malaysia,9,2019-11-19
+418,United Kingdom,4,2019-11-18
+419,United Kingdom,5,2019-11-18
+420,Australia,1,2019-11-18
+421,United Kingdom,1,2019-11-18
+422,Netherlands,10,2019-11-17
+423,Ireland,2,2019-11-16
+424,Australia,2,2019-11-16
+425,United Kingdom,2,2019-11-13
+426,United Kingdom,9,2019-11-13
+427,United Kingdom,9,2019-11-12
+428,United Kingdom,10,2019-11-11
+429,United Kingdom,10,2019-11-11
+430,United Kingdom,3,2019-11-10
+431,United Kingdom,9,2019-11-10
+432,Australia,1,2019-11-07
+433,United Kingdom,10,2019-11-02
+434,United Kingdom,1,2019-11-02
+435,Canada,1,2019-10-31
+436,United States,5,2019-10-31
+437,United Kingdom,4,2019-10-31
+438,United Kingdom,8,2019-10-30
+439,Canada,9,2019-10-30
+440,United Kingdom,1,2019-10-29
+441,Switzerland,3,2019-10-29
+442,United Kingdom,10,2019-10-29
+443,United Kingdom,10,2019-10-27
+444,United Kingdom,1,2019-10-27
+445,Germany,1,2019-10-26
+446,India,10,2019-10-25
+447,Switzerland,2,2019-10-25
+448,United Kingdom,1,2019-10-25
+449,United Kingdom,3,2019-10-24
+450,Australia,1,2019-10-20
+451,Argentina,2,2019-10-20
+452,United Kingdom,10,2019-10-20
+453,United States,1,2019-10-19
+454,Jordan,8,2019-10-16
+455,United Kingdom,5,2019-10-16
+456,United States,1,2019-10-16
+457,Argentina,2,2019-10-15
+458,Mexico,8,2019-10-13
+459,United Kingdom,9,2019-10-12
+460,United Kingdom,4,2019-10-12
+461,United Kingdom,9,2019-10-11
+462,South Africa,2,2019-10-11
+463,United Kingdom,10,2019-10-09
+464,United States,1,2019-10-09
+465,United Kingdom,10,2019-10-09
+466,United Kingdom,1,2019-10-09
+467,United Kingdom,8,2019-10-08
+468,Canada,6,2019-10-08
+469,Malaysia,10,2019-10-07
+470,United Kingdom,8,2019-10-06
+471,United Kingdom,7,2019-10-06
+472,United States,1,2019-10-03
+473,United Kingdom,5,2019-10-02
+474,United Kingdom,4,2019-10-02
+475,United Kingdom,9,2019-10-01
+476,United Kingdom,1,2019-09-30
+477,United Kingdom,10,2019-09-28
+478,United Kingdom,8,2019-09-28
+479,United Kingdom,1,2019-09-27
+480,United Kingdom,7,2019-09-26
+481,Italy,1,2019-09-26
+482,Japan,9,2019-09-23
+483,United Kingdom,9,2019-09-21
+484,United Kingdom,1,2019-09-19
+485,United Kingdom,3,2019-09-19
+486,United States,4,2019-09-18
+487,United States,5,2019-09-17
+488,United Kingdom,5,2019-09-16
+489,United States,1,2019-09-16
+490,United Kingdom,1,2019-09-15
+491,United Kingdom,1,2019-09-15
+492,United Kingdom,5,2019-09-14
+493,United Kingdom,4,2019-09-13
+494,United Kingdom,10,2019-09-12
+495,United Kingdom,9,2019-09-11
+496,Switzerland,1,2019-09-10
+497,Sweden,3,2019-09-10
+498,United Kingdom,8,2019-09-08
+499,United Kingdom,2,2019-09-07
+500,United Arab Emirates,8,2019-09-06
+501,United Kingdom,2,2019-09-06
+502,Australia,4,2019-09-04
+503,United States,2,2019-09-04
+504,United Kingdom,2,2019-09-01
+505,United Kingdom,10,2019-08-29
+506,Malaysia,10,2019-08-28
+507,United Kingdom,1,2019-08-28
+508,Taiwan,1,2019-08-26
+509,China,9,2019-08-25
+510,United States,2,2019-08-24
+511,United Kingdom,10,2019-08-24
+512,United States,1,2019-08-23
+513,Hong Kong,2,2019-08-23
+514,United Kingdom,6,2019-08-22
+515,United Kingdom,5,2019-08-21
+516,Canada,10,2019-08-21
+517,United Kingdom,9,2019-08-21
+518,United States,1,2019-08-20
+519,United Kingdom,3,2019-08-17
+520,United Kingdom,10,2019-08-15
+521,Hong Kong,6,2019-08-14
+522,United Kingdom,1,2019-08-14
+523,Australia,1,2019-08-13
+524,Slovakia,10,2019-08-12
+525,United Kingdom,2,2019-08-11
+526,Australia,2,2019-08-10
+527,United Kingdom,1,2019-08-09
+528,United Kingdom,2,2019-08-09
+529,United Kingdom,1,2019-08-09
+530,United Kingdom,1,2019-08-09
+531,United Kingdom,1,2019-08-08
+532,United Kingdom,1,2019-08-07
+533,United Kingdom,1,2019-08-06
+534,United Kingdom,1,2019-08-02
+535,United Kingdom,3,2019-08-02
+536,United Kingdom,8,2019-08-02
+537,Kuwait,1,2019-08-02
+538,United Kingdom,9,2019-08-01
+539,Hong Kong,6,2019-08-01
+540,United Kingdom,3,2019-07-31
+541,United Kingdom,2,2019-07-31
+542,United Kingdom,5,2019-07-30
+543,South Africa,6,2019-07-30
+544,United Kingdom,2,2019-07-30
+545,United States,1,2019-07-29
+546,Thailand,8,2019-07-29
+547,United Kingdom,5,2019-07-28
+548,United Kingdom,1,2019-07-27
+549,United Arab Emirates,10,2019-07-24
+550,Israel,9,2019-07-21
+551,New Zealand,3,2019-07-20
+552,Belgium,8,2019-07-18
+553,Australia,2,2019-07-16
+554,United Kingdom,2,2019-07-15
+555,United Kingdom,7,2019-07-14
+556,Australia,1,2019-07-13
+557,United Kingdom,1,2019-07-12
+558,Canada,3,2019-07-10
+559,United States,1,2019-07-10
+560,United Kingdom,1,2019-07-08
+561,United Kingdom,1,2019-07-07
+562,United Kingdom,3,2019-07-06
+563,United Kingdom,9,2019-07-05
+564,United Kingdom,2,2019-07-04
+565,United Kingdom,10,2019-07-02
+566,Spain,1,2019-07-02
+567,United Kingdom,10,2019-07-01
+568,Germany,1,2019-06-30
+569,United States,7,2019-06-29
+570,United Kingdom,10,2019-06-28
+571,United Kingdom,10,2019-06-27
+572,United Kingdom,10,2019-06-27
+573,United Kingdom,6,2019-06-26
+574,United Kingdom,8,2019-06-26
+575,United Kingdom,3,2019-06-24
+576,Australia,1,2019-06-24
+577,United Kingdom,5,2019-06-22
+578,United Kingdom,5,2019-06-20
+579,United States,6,2019-06-17
+580,United Kingdom,1,2019-06-16
+581,United Kingdom,7,2019-06-14
+582,United Kingdom,3,2019-06-14
+583,United States,1,2019-06-12
+584,Australia,3,2019-06-09
+585,United States,4,2019-06-09
+586,United States,3,2019-06-08
+587,United States,5,2019-06-07
+588,Spain,10,2019-06-07
+589,United Kingdom,1,2019-06-06
+590,Qatar,10,2019-06-06
+591,United Kingdom,1,2019-06-06
+592,United Kingdom,8,2019-06-05
+593,United States,1,2019-06-04
+594,India,6,2019-06-02
+595,United Kingdom,8,2019-06-02
+596,United Kingdom,1,2019-06-01
+597,United Kingdom,10,2019-05-30
+598,South Africa,5,2019-05-29
+599,United Kingdom,9,2019-05-28
+600,South Africa,10,2019-05-28
+601,United States,9,2019-05-27
+602,United Kingdom,7,2019-05-27
+603,United Kingdom,1,2019-05-27
+604,United Kingdom,5,2019-05-26
+605,United Kingdom,3,2019-05-23
+606,Australia,4,2019-05-23
+607,United Kingdom,3,2019-05-23
+608,United Kingdom,3,2019-05-22
+609,United Kingdom,4,2019-05-20
+610,Canada,10,2019-05-20
+611,United Kingdom,8,2019-05-19
+612,United States,6,2019-05-18
+613,United Kingdom,7,2019-05-18
+614,United Kingdom,8,2019-05-17
+615,United Kingdom,1,2019-05-16
+616,United Kingdom,1,2019-05-13
+617,United Kingdom,1,2019-05-11
+618,United Kingdom,2,2019-05-10
+619,United Kingdom,9,2019-05-08
+620,United Kingdom,1,2019-05-08
+621,United Kingdom,8,2019-05-07
+622,United Kingdom,10,2019-05-07
+623,United Kingdom,2,2019-05-04
+624,United States,1,2019-05-04
+625,United Kingdom,9,2019-05-02
+626,Romania,1,2019-05-01
+627,Canada,10,2019-05-01
+628,United Kingdom,10,2019-05-01
+629,United Kingdom,8,2019-04-30
+630,United Kingdom,2,2019-04-29
+631,Australia,4,2019-04-29
+632,United Kingdom,1,2019-04-27
+633,India,9,2019-04-23
+634,United Kingdom,1,2019-04-23
+635,United Kingdom,7,2019-04-22
+636,United States,4,2019-04-18
+637,United Kingdom,10,2019-04-18
+638,United States,5,2019-04-17
+639,Qatar,6,2019-04-14
+640,United Kingdom,9,2019-04-14
+641,United Kingdom,2,2019-04-14
+642,United Kingdom,5,2019-04-14
+643,United Kingdom,6,2019-04-13
+644,United Kingdom,10,2019-04-12
+645,United Kingdom,3,2019-04-11
+646,United Kingdom,1,2019-04-11
+647,United Kingdom,1,2019-04-10
+648,India,1,2019-04-06
+649,Germany,3,2019-04-01
+650,United Kingdom,10,2019-04-01
+651,Qatar,7,2019-04-01
+652,United Kingdom,10,2019-03-29
+653,United Kingdom,2,2019-03-28
+654,United Kingdom,7,2019-03-23
+655,United Kingdom,8,2019-03-23
+656,United States,2,2019-03-21
+657,United Kingdom,6,2019-03-19
+658,Norway,1,2019-03-19
+659,United Kingdom,2,2019-03-18
+660,United Kingdom,1,2019-03-16
+661,United Kingdom,9,2019-03-14
+662,United States,2,2019-03-14
+663,United Kingdom,1,2019-03-13
+664,United Kingdom,9,2019-03-13
+665,United Kingdom,2,2019-03-12
+666,United States,1,2019-03-11
+667,United Kingdom,10,2019-03-09
+668,United Kingdom,1,2019-03-09
+669,United Kingdom,9,2019-03-08
+670,United Kingdom,5,2019-03-07
+671,United States,3,2019-03-04
+672,United Kingdom,3,2019-03-03
+673,United Kingdom,10,2019-03-03
+674,United Kingdom,1,2019-03-02
+675,United States,2,2019-02-28
+676,United Kingdom,1,2019-02-26
+677,United Kingdom,1,2019-02-26
+678,United Kingdom,3,2019-02-25
+679,United Kingdom,3,2019-02-24
+680,South Africa,1,2019-02-23
+681,United Kingdom,6,2019-02-22
+682,United States,10,2019-02-20
+683,South Korea,8,2019-02-20
+684,United Kingdom,10,2019-02-19
+685,United Kingdom,5,2019-02-19
+686,United Kingdom,8,2019-02-18
+687,United Kingdom,10,2019-02-18
+688,United States,3,2019-02-15
+689,Spain,2,2019-02-15
+690,Sweden,3,2019-02-13
+691,United Kingdom,2,2019-02-12
+692,Netherlands,2,2019-02-12
+693,United Kingdom,9,2019-02-12
+694,United Kingdom,7,2019-02-11
+695,United Kingdom,9,2019-02-11
+696,United Kingdom,10,2019-02-10
+697,Germany,2,2019-02-04
+698,United Kingdom,9,2019-02-04
+699,France,1,2019-02-03
+700,United States,7,2019-02-03
+701,United Kingdom,6,2019-02-03
+702,India,1,2019-02-02
+703,Switzerland,6,2019-02-01
+704,United States,7,2019-02-01
+705,United Kingdom,4,2019-01-31
+706,France,2,2019-01-31
+707,United Kingdom,6,2019-01-30
+708,United Kingdom,7,2019-01-30
+709,United Kingdom,8,2019-01-28
+710,Ireland,9,2019-01-28
+711,United Kingdom,1,2019-01-28
+712,Malaysia,2,2019-01-26
+713,Switzerland,1,2019-01-26
+714,United States,2,2019-01-25
+715,Sweden,10,2019-01-24
+716,United Kingdom,3,2019-01-23
+717,United States,2,2019-01-22
+718,United Kingdom,3,2019-01-21
+719,United Kingdom,7,2019-01-21
+720,United Kingdom,5,2019-01-21
+721,United Kingdom,2,2019-01-19
+722,United States,1,2019-01-19
+723,United Kingdom,3,2019-01-18
+724,Australia,1,2019-01-16
+725,Italy,10,2019-01-16
+726,United Kingdom,1,2019-01-16
+727,United Kingdom,3,2019-01-15
+728,United States,4,2019-01-15
+729,United Kingdom,1,2019-01-14
+730,United States,6,2019-01-12
+731,United States,5,2019-01-10
+732,United States,3,2019-01-10
+733,South Africa,10,2019-01-09
+734,United States,7,2019-01-07
+735,United Kingdom,1,2019-01-07
+736,United Kingdom,10,2019-01-05
+737,Greece,2,2019-01-03
+738,United Kingdom,3,2019-01-02
+739,Thailand,8,2018-12-30
+740,United Kingdom,7,2018-12-29
+741,United States,1,2018-12-24
+742,South Africa,1,2018-12-24
+743,United Kingdom,1,2018-12-24
+744,United States,4,2018-12-23
+745,United States,1,2018-12-23
+746,United Kingdom,6,2018-12-22
+747,United Kingdom,10,2018-12-19
+748,United Kingdom,4,2018-12-19
+749,United Kingdom,1,2018-12-19
+750,United Kingdom,8,2018-12-18
+751,Australia,2,2018-12-18
+752,United Kingdom,6,2018-12-17
+753,Greece,2,2018-12-13
+754,United Kingdom,1,2018-12-13
+755,Canada,2,2018-12-11
+756,United Kingdom,1,2018-12-11
+757,Malaysia,10,2018-12-10
+758,United Kingdom,1,2018-12-09
+759,Ireland,10,2018-12-09
+760,United Kingdom,2,2018-12-09
+761,United States,1,2018-12-07
+762,United Kingdom,7,2018-12-05
+763,United Kingdom,3,2018-12-03
+764,Ghana,9,2018-11-30
+765,United Kingdom,3,2018-11-30
+766,Germany,2,2018-11-28
+767,United Kingdom,1,2018-11-27
+768,United Kingdom,9,2018-11-27
+769,United Kingdom,2,2018-11-22
+770,Canada,7,2018-11-22
+771,United States,1,2018-11-21
+772,Switzerland,4,2018-11-20
+773,France,1,2018-11-17
+774,United States,8,2018-11-16
+775,Sweden,5,2018-11-16
+776,Netherlands,1,2018-11-14
+777,United Kingdom,1,2018-11-12
+778,Saudi Arabia,1,2018-11-10
+779,United Kingdom,1,2018-11-06
+780,Australia,1,2018-11-05
+781,Hungary,3,2018-11-04
+782,United Kingdom,7,2018-11-02
+783,Australia,4,2018-11-01
+784,United Kingdom,3,2018-10-28
+785,United States,1,2018-10-27
+786,United Kingdom,9,2018-10-26
+787,United Kingdom,9,2018-10-25
+788,United States,3,2018-10-25
+789,Spain,8,2018-10-24
+790,Germany,4,2018-10-23
+791,France,2,2018-10-23
+792,Germany,5,2018-10-22
+793,United Kingdom,9,2018-10-22
+794,Netherlands,1,2018-10-21
+795,Canada,2,2018-10-18
+796,Austria,2,2018-10-17
+797,Belgium,3,2018-10-17
+798,Singapore,8,2018-10-17
+799,United Kingdom,2,2018-10-15
+800,United Kingdom,4,2018-10-13
+801,United States,1,2018-10-07
+802,Canada,1,2018-10-06
+803,United Kingdom,2,2018-10-01
+804,Netherlands,10,2018-09-28
+805,Germany,9,2018-09-28
+806,Ireland,1,2018-09-26
+807,United Kingdom,6,2018-09-25
+808,United States,1,2018-09-24
+809,Malaysia,7,2018-09-20
+810,United Kingdom,6,2018-09-18
+811,United Kingdom,3,2018-09-17
+812,United Kingdom,1,2018-09-16
+813,Germany,2,2018-09-16
+814,Saudi Arabia,10,2018-09-16
+815,United States,7,2018-09-15
+816,United States,6,2018-09-14
+817,United Kingdom,9,2018-09-12
+818,United Kingdom,1,2018-09-11
+819,Brazil,8,2018-09-10
+820,United Kingdom,4,2018-09-10
+821,United Kingdom,3,2018-09-08
+822,Australia,2,2018-09-08
+823,United Kingdom,7,2018-09-07
+824,United Kingdom,8,2018-09-06
+825,United Kingdom,7,2018-09-05
+826,Canada,10,2018-09-03
+827,United Kingdom,1,2018-08-30
+828,Singapore,1,2018-08-29
+829,Germany,4,2018-08-29
+830,United States,5,2018-08-28
+831,United Kingdom,7,2018-08-23
+832,United Kingdom,10,2018-08-21
+833,United Kingdom,3,2018-08-21
+834,United Kingdom,10,2018-08-21
+835,United States,3,2018-08-20
+836,United States,1,2018-08-18
+837,United Kingdom,5,2018-08-17
+838,Switzerland,1,2018-08-16
+839,Canada,8,2018-08-15
+840,United Kingdom,7,2018-08-15
+841,United Kingdom,10,2018-08-14
+842,United Kingdom,7,2018-08-13
+843,United Kingdom,7,2018-08-13
+844,United Kingdom,7,2018-08-12
+845,United Kingdom,1,2018-08-11
+846,United Kingdom,5,2018-08-09
+847,United Kingdom,8,2018-08-09
+848,United States,4,2018-08-07
+849,United Kingdom,1,2018-08-06
+850,United Kingdom,1,2018-08-03
+851,Germany,8,2018-07-31
+852,United Kingdom,8,2018-07-30
+853,United Kingdom,7,2018-07-30
+854,China,8,2018-07-29
+855,United Kingdom,1,2018-07-28
+856,United Kingdom,3,2018-07-27
+857,Czech Republic,4,2018-07-26
+858,United Kingdom,3,2018-07-26
+859,Netherlands,3,2018-07-23
+860,South Korea,1,2018-07-23
+861,Australia,8,2018-07-23
+862,United Kingdom,7,2018-07-22
+863,United Kingdom,7,2018-07-22
+864,United States,6,2018-07-22
+865,United Kingdom,1,2018-07-20
+866,Spain,9,2018-07-19
+867,United Kingdom,7,2018-07-19
+868,United Kingdom,6,2018-07-19
+869,Australia,8,2018-07-18
+870,Hong Kong,2,2018-07-18
+871,United Kingdom,2,2018-07-17
+872,United Kingdom,7,2018-07-15
+873,United Kingdom,10,2018-07-15
+874,United Kingdom,1,2018-07-15
+875,United Kingdom,2,2018-07-13
+876,China,3,2018-07-12
+877,United Kingdom,2,2018-07-10
+878,United Kingdom,1,2018-07-10
+879,United Kingdom,5,2018-07-10
+880,Ireland,1,2018-07-09
+881,United Kingdom,1,2018-07-09
+882,United Kingdom,1,2018-07-08
+883,United Kingdom,1,2018-07-05
+884,United Kingdom,8,2018-06-29
+885,India,6,2018-06-28
+886,Netherlands,7,2018-06-27
+887,United Kingdom,4,2018-06-25
+888,United Kingdom,10,2018-06-25
+889,Canada,3,2018-06-25
+890,Italy,1,2018-06-25
+891,United States,1,2018-06-23
+892,United Kingdom,3,2018-06-22
+893,United Kingdom,10,2018-06-22
+894,United Kingdom,4,2018-06-21
+895,United Kingdom,2,2018-06-20
+896,Switzerland,4,2018-06-20
+897,United Kingdom,7,2018-06-20
+898,United Kingdom,5,2018-06-20
+899,Ireland,1,2018-06-19
+900,United States,1,2018-06-13
+901,United Kingdom,3,2018-06-13
+902,United Kingdom,4,2018-06-12
+903,United Kingdom,2,2018-06-10
+904,Canada,8,2018-06-09
+905,United States,10,2018-06-08
+906,Switzerland,3,2018-06-08
+907,United Kingdom,8,2018-06-07
+908,United Kingdom,3,2018-06-06
+909,United Kingdom,2,2018-06-05
+910,United States,10,2018-06-05
+911,United Kingdom,3,2018-06-03
+912,United Kingdom,1,2018-06-02
+913,United Kingdom,6,2018-06-02
+914,United States,4,2018-06-02
+915,Hong Kong,2,2018-06-02
+916,Germany,1,2018-06-01
+917,United Kingdom,1,2018-05-31
+918,United Kingdom,1,2018-05-31
+919,United Kingdom,2,2018-05-30
+920,United Kingdom,10,2018-05-30
+921,Singapore,9,2018-05-30
+922,United States,1,2018-05-29
+923,United Kingdom,1,2018-05-28
+924,United Kingdom,2,2018-05-27
+925,Australia,4,2018-05-26
+926,Australia,4,2018-05-25
+927,United Kingdom,10,2018-05-25
+928,United Kingdom,1,2018-05-23
+929,Germany,7,2018-05-23
+930,Singapore,7,2018-05-18
+931,United Kingdom,3,2018-05-17
+932,United States,5,2018-05-14
+933,France,3,2018-05-14
+934,United States,8,2018-05-14
+935,Canada,1,2018-05-11
+936,Netherlands,5,2018-05-11
+937,United Kingdom,5,2018-05-11
+938,United Kingdom,2,2018-05-11
+939,United Kingdom,1,2018-05-11
+940,France,7,2018-05-11
+941,United Kingdom,1,2018-05-10
+942,Belgium,9,2018-05-09
+943,United Kingdom,8,2018-05-08
+944,Greece,5,2018-05-07
+945,United Kingdom,5,2018-05-03
+946,United States,8,2018-05-03
+947,Germany,3,2018-05-02
+948,United Kingdom,7,2018-04-30
+949,United Kingdom,2,2018-04-29
+950,Spain,8,2018-04-28
+951,United Kingdom,2,2018-04-26
+952,Ireland,3,2018-04-26
+953,United Kingdom,2,2018-04-26
+954,United Kingdom,1,2018-04-25
+955,United Kingdom,8,2018-04-24
+956,Germany,1,2018-04-22
+957,Germany,1,2018-04-22
+958,Spain,3,2018-04-20
+959,United Kingdom,1,2018-04-17
+960,United Kingdom,9,2018-04-16
+961,United Kingdom,4,2018-04-15
+962,United Kingdom,4,2018-04-15
+963,Sweden,3,2018-04-14
+964,United Kingdom,2,2018-04-14
+965,United Kingdom,1,2018-04-13
+966,Canada,1,2018-04-13
+967,United Kingdom,4,2018-04-13
+968,United Kingdom,5,2018-04-12
+969,Nigeria,1,2018-04-12
+970,United Kingdom,1,2018-04-10
+971,United States,4,2018-04-08
+972,United Kingdom,1,2018-04-07
+973,United Kingdom,10,2018-04-05
+974,United Kingdom,2,2018-04-04
+975,United Kingdom,6,2018-04-03
+976,United Arab Emirates,7,2018-04-03
+977,United Kingdom,2,2018-04-03
+978,United Kingdom,10,2018-04-03
+979,United Kingdom,7,2018-04-02
+980,United Kingdom,7,2018-04-01
+981,United Kingdom,1,2018-04-01
+982,United Kingdom,4,2018-03-30
+983,United Kingdom,2,2018-03-30
+984,Hong Kong,8,2018-03-28
+985,Belgium,2,2018-03-28
+986,United Kingdom,7,2018-03-24
+987,United Kingdom,3,2018-03-24
+988,United Kingdom,10,2018-03-24
+989,United States,10,2018-03-22
+990,Malaysia,3,2018-03-20
+991,United Kingdom,1,2018-03-19
+992,United Kingdom,7,2018-03-19
+993,United Kingdom,5,2018-03-19
+994,United Kingdom,1,2018-03-19
+995,United Kingdom,3,2018-03-14
+996,United Kingdom,3,2018-03-13
+997,Portugal,7,2018-03-13
+998,Portugal,7,2018-03-13
+999,Germany,3,2018-03-13
+1000,United States,7,2018-03-11
+1001,Sweden,2,2018-03-06
+1002,Portugal,5,2018-03-06
+1003,Singapore,1,2018-03-05
+1004,United States,2,2018-03-03
+1005,United Kingdom,6,2018-03-02
+1006,United Kingdom,1,2018-03-01
+1007,United Kingdom,8,2018-02-27
+1008,United Kingdom,1,2018-02-27
+1009,United Kingdom,1,2018-02-26
+1010,Mexico,3,2018-02-23
+1011,United Kingdom,1,2018-02-22
+1012,Greece,7,2018-02-22
+1013,United Kingdom,4,2018-02-21
+1014,United Kingdom,7,2018-02-20
+1015,United Kingdom,2,2018-02-18
+1016,United Kingdom,2,2018-02-17
+1017,United States,3,2018-02-17
+1018,United Kingdom,3,2018-02-17
+1019,United Kingdom,6,2018-02-15
+1020,United Kingdom,1,2018-02-14
+1021,United Kingdom,8,2018-02-13
+1022,Germany,8,2018-02-12
+1023,United Kingdom,2,2018-02-10
+1024,United Kingdom,10,2018-02-09
+1025,India,7,2018-02-06
+1026,United States,2,2018-02-06
+1027,Germany,1,2018-02-05
+1028,United Kingdom,2,2018-02-05
+1029,United Kingdom,1,2018-02-05
+1030,United States,8,2018-02-05
+1031,United Kingdom,4,2018-02-03
+1032,Thailand,1,2018-02-02
+1033,Argentina,7,2018-01-31
+1034,United Kingdom,2,2018-01-31
+1035,United Kingdom,8,2018-01-29
+1036,France,1,2018-01-25
+1037,United States,1,2018-01-24
+1038,United Kingdom,5,2018-01-22
+1039,United Kingdom,1,2018-01-20
+1040,Poland,1,2018-01-20
+1041,Canada,5,2018-01-20
+1042,United Kingdom,7,2018-01-19
+1043,United States,2,2018-01-17
+1044,South Africa,1,2018-01-17
+1045,Portugal,8,2018-01-17
+1046,Italy,10,2018-01-17
+1047,United States,9,2018-01-16
+1048,Germany,1,2018-01-14
+1049,United Kingdom,5,2018-01-12
+1050,United States,1,2018-01-12
+1051,United Kingdom,8,2018-01-09
+1052,Netherlands,8,2018-01-09
+1053,United Kingdom,2,2018-01-09
+1054,United States,10,2018-01-08
+1055,Canada,9,2018-01-08
+1056,United Kingdom,1,2018-01-08
+1057,United States,3,2018-01-08
+1058,United Kingdom,1,2018-01-05
+1059,United Kingdom,8,2018-01-05
+1060,United Kingdom,1,2018-01-03
+1061,United States,1,2018-01-01
+1062,United Kingdom,3,2018-01-01
+1063,China,9,2017-12-30
+1064,United Kingdom,1,2017-12-28
+1065,United Kingdom,1,2017-12-26
+1066,United Kingdom,7,2017-12-23
+1067,United States,3,2017-12-22
+1068,Australia,7,2017-12-22
+1069,Canada,1,2017-12-19
+1070,United Kingdom,1,2017-12-17
+1071,United Kingdom,1,2017-12-17
+1072,United Kingdom,3,2017-12-15
+1073,Hungary,1,2017-12-13
+1074,United Kingdom,1,2017-12-13
+1075,Germany,4,2017-12-12
+1076,United Kingdom,1,2017-12-10
+1077,United Kingdom,1,2017-12-10
+1078,United Kingdom,9,2017-12-09
+1079,United States,8,2017-12-05
+1080,United States,8,2017-12-05
+1081,United States,8,2017-12-05
+1082,United States,8,2017-12-04
+1083,Taiwan,1,2017-12-04
+1084,Canada,3,2017-12-03
+1085,United Kingdom,2,2017-12-02
+1086,United Kingdom,2,2017-12-01
+1087,United Kingdom,3,2017-12-01
+1088,United Kingdom,3,2017-12-01
+1089,United Kingdom,8,2017-12-01
+1090,United Kingdom,2,2017-11-30
+1091,United Kingdom,9,2017-11-30
+1092,Germany,1,2017-11-30
+1093,United Kingdom,10,2017-11-30
+1094,United Kingdom,2,2017-11-30
+1095,United Kingdom,5,2017-11-28
+1096,Greece,1,2017-11-26
+1097,Germany,1,2017-11-25
+1098,United Kingdom,4,2017-11-25
+1099,Singapore,3,2017-11-24
+1100,United Kingdom,1,2017-11-24
+1101,United Kingdom,3,2017-11-24
+1102,United States,1,2017-11-23
+1103,United Kingdom,9,2017-11-23
+1104,Thailand,5,2017-11-21
+1105,United Kingdom,2,2017-11-21
+1106,Portugal,2,2017-11-20
+1107,United Kingdom,7,2017-11-20
+1108,United Kingdom,7,2017-11-20
+1109,Malaysia,6,2017-11-19
+1110,United Kingdom,5,2017-11-19
+1111,United Kingdom,2,2017-11-19
+1112,United States,1,2017-11-18
+1113,United Kingdom,8,2017-11-17
+1114,United Kingdom,3,2017-11-17
+1115,United Kingdom,3,2017-11-17
+1116,South Korea,6,2017-11-17
+1117,South Korea,6,2017-11-16
+1118,United Kingdom,2,2017-11-16
+1119,Saudi Arabia,5,2017-11-15
+1120,United Kingdom,8,2017-11-14
+1121,United Kingdom,2,2017-11-13
+1122,United Kingdom,1,2017-11-13
+1123,United States,2,2017-11-13
+1124,United Kingdom,6,2017-11-11
+1125,United Kingdom,3,2017-11-11
+1126,United States,1,2017-11-10
+1127,United Kingdom,1,2017-11-10
+1128,United Kingdom,1,2017-11-09
+1129,United Kingdom,1,2017-11-08
+1130,United Kingdom,1,2017-11-07
+1131,United Kingdom,1,2017-11-06
+1132,United Kingdom,5,2017-11-05
+1133,United Kingdom,2,2017-11-04
+1134,Australia,8,2017-11-03
+1135,United Arab Emirates,2,2017-11-02
+1136,Sweden,3,2017-11-02
+1137,Switzerland,3,2017-11-01
+1138,United Kingdom,5,2017-11-01
+1139,United Kingdom,1,2017-10-31
+1140,United States,8,2017-10-30
+1141,United Kingdom,7,2017-10-29
+1142,United States,1,2017-10-28
+1143,United Kingdom,3,2017-10-27
+1144,United Kingdom,7,2017-10-26
+1145,United Kingdom,3,2017-10-26
+1146,Singapore,4,2017-10-25
+1147,United Kingdom,4,2017-10-24
+1148,United Kingdom,2,2017-10-23
+1149,United Kingdom,7,2017-10-23
+1150,United Kingdom,5,2017-10-22
+1151,United Kingdom,2,2017-10-21
+1152,United Kingdom,1,2017-10-21
+1153,Australia,9,2017-10-21
+1154,United Kingdom,7,2017-10-20
+1155,United Kingdom,2,2017-10-20
+1156,United Kingdom,2,2017-10-20
+1157,United Kingdom,3,2017-10-19
+1158,United Kingdom,7,2017-10-19
+1159,United Kingdom,10,2017-10-19
+1160,United Kingdom,10,2017-10-18
+1161,France,1,2017-10-17
+1162,United Kingdom,3,2017-10-17
+1163,United Kingdom,2,2017-10-17
+1164,United Kingdom,8,2017-10-15
+1165,United Kingdom,3,2017-10-13
+1166,United Kingdom,1,2017-10-12
+1167,Cayman Islands,4,2017-10-11
+1168,Australia,2,2017-10-11
+1169,United Kingdom,5,2017-10-09
+1170,United Kingdom,2,2017-10-09
+1171,United Kingdom,10,2017-10-08
+1172,New Zealand,6,2017-10-08
+1173,Qatar,6,2017-10-07
+1174,United Kingdom,2,2017-10-06
+1175,Canada,7,2017-10-01
+1176,United Kingdom,6,2017-10-01
+1177,Greece,4,2017-10-01
+1178,United Kingdom,6,2017-09-29
+1179,United Kingdom,1,2017-09-29
+1180,United Kingdom,3,2017-09-27
+1181,United Kingdom,3,2017-09-27
+1182,Romania,9,2017-09-26
+1183,United Kingdom,1,2017-09-26
+1184,United Kingdom,7,2017-09-26
+1185,United Kingdom,7,2017-09-24
+1186,Australia,4,2017-09-24
+1187,Thailand,9,2017-09-22
+1188,United Kingdom,10,2017-09-21
+1189,United Kingdom,8,2017-09-21
+1190,United Kingdom,6,2017-09-19
+1191,United Kingdom,5,2017-09-19
+1192,United States,3,2017-09-18
+1193,United Kingdom,3,2017-09-17
+1194,United Kingdom,2,2017-09-17
+1195,Hong Kong,6,2017-09-17
+1196,United Kingdom,1,2017-09-16
+1197,United Kingdom,6,2017-09-16
+1198,Japan,4,2017-09-16
+1199,United States,3,2017-09-12
+1200,Australia,9,2017-09-11
+1201,United Kingdom,2,2017-09-11
+1202,United Kingdom,8,2017-09-09
+1203,United Kingdom,8,2017-09-09
+1204,Canada,8,2017-09-09
+1205,United Kingdom,9,2017-09-09
+1206,United Kingdom,8,2017-09-06
+1207,United Kingdom,6,2017-09-06
+1208,United Kingdom,1,2017-09-06
+1209,United Kingdom,1,2017-09-06
+1210,United Kingdom,1,2017-09-05
+1211,United Kingdom,3,2017-09-04
+1212,United Kingdom,4,2017-09-02
+1213,United Kingdom,5,2017-08-31
+1214,United Kingdom,7,2017-08-31
+1215,United Kingdom,8,2017-08-31
+1216,United Kingdom,2,2017-08-29
+1217,Costa Rica,9,2017-08-28
+1218,China,1,2017-08-28
+1219,United Kingdom,3,2017-08-27
+1220,United Kingdom,1,2017-08-26
+1221,United Kingdom,7,2017-08-24
+1222,United Kingdom,3,2017-08-23
+1223,United States,3,2017-08-22
+1224,United States,2,2017-08-21
+1225,United Kingdom,10,2017-08-21
+1226,United Kingdom,2,2017-08-20
+1227,United Kingdom,1,2017-08-19
+1228,United Kingdom,2,2017-08-19
+1229,United Kingdom,5,2017-08-17
+1230,United Kingdom,2,2017-08-17
+1231,United Kingdom,2,2017-08-17
+1232,Denmark,1,2017-08-16
+1233,South Africa,9,2017-08-16
+1234,United States,3,2017-08-15
+1235,United Kingdom,3,2017-08-13
+1236,Canada,3,2017-08-12
+1237,Egypt,2,2017-08-11
+1238,United Arab Emirates,3,2017-08-08
+1239,United Kingdom,1,2017-08-07
+1240,United Kingdom,2,2017-08-05
+1241,United States,10,2017-08-04
+1242,United Kingdom,1,2017-08-03
+1243,Canada,3,2017-08-03
+1244,United Kingdom,2,2017-08-03
+1245,United Kingdom,1,2017-08-03
+1246,United Kingdom,2,2017-08-02
+1247,United Kingdom,5,2017-08-01
+1248,United States,3,2017-08-01
+1249,United Kingdom,1,2017-07-31
+1250,United Kingdom,3,2017-07-31
+1251,United Kingdom,2,2017-07-31
+1252,United Kingdom,8,2017-07-28
+1253,United Kingdom,1,2017-07-28
+1254,United Kingdom,1,2017-07-28
+1255,Singapore,1,2017-07-27
+1256,Germany,1,2017-07-27
+1257,United Kingdom,10,2017-07-27
+1258,United Kingdom,1,2017-07-26
+1259,United Kingdom,2,2017-07-26
+1260,United Kingdom,7,2017-07-25
+1261,United Kingdom,1,2017-07-24
+1262,United Kingdom,1,2017-07-24
+1263,United States,5,2017-07-24
+1264,United Kingdom,5,2017-07-23
+1265,United Kingdom,3,2017-07-22
+1266,United Kingdom,1,2017-07-21
+1267,United Kingdom,3,2017-07-21
+1268,United Kingdom,7,2017-07-19
+1269,United States,4,2017-07-17
+1270,United Kingdom,1,2017-07-16
+1271,United Kingdom,5,2017-07-16
+1272,United Kingdom,1,2017-07-16
+1273,United States,5,2017-07-16
+1274,United Kingdom,1,2017-07-14
+1275,United Kingdom,3,2017-07-12
+1276,United States,9,2017-07-12
+1277,United Kingdom,2,2017-07-10
+1278,United Kingdom,1,2017-07-10
+1279,United Kingdom,3,2017-07-10
+1280,United Kingdom,8,2017-07-10
+1281,Iceland,8,2017-07-09
+1282,United Kingdom,8,2017-07-09
+1283,United Kingdom,4,2017-07-08
+1284,Spain,5,2017-07-07
+1285,United Kingdom,6,2017-07-06
+1286,United Kingdom,2,2017-07-06
+1287,United Kingdom,2,2017-07-05
+1288,United Kingdom,1,2017-07-05
+1289,United Kingdom,7,2017-07-05
+1290,Spain,1,2017-07-05
+1291,United Kingdom,2,2017-07-04
+1292,United Kingdom,5,2017-07-04
+1293,United Kingdom,2,2017-07-04
+1294,United Kingdom,2,2017-07-04
+1295,United Kingdom,5,2017-07-03
+1296,United Kingdom,6,2017-07-03
+1297,Australia,1,2017-07-01
+1298,United Kingdom,1,2017-07-01
+1299,United Kingdom,10,2017-06-30
+1300,United Kingdom,2,2017-06-30
+1301,Ghana,1,2017-06-30
+1302,United Kingdom,1,2017-06-29
+1303,United Kingdom,1,2017-06-29
+1304,United Kingdom,2,2017-06-29
+1305,United Kingdom,1,2017-06-28
+1306,United Kingdom,3,2017-06-27
+1307,Australia,4,2017-06-27
+1308,Ghana,2,2017-06-27
+1309,United Kingdom,5,2017-06-26
+1310,United Kingdom,1,2017-06-25
+1311,South Africa,8,2017-06-24
+1312,United Kingdom,7,2017-06-23
+1313,Laos,4,2017-06-23
+1314,United States,1,2017-06-23
+1315,United States,1,2017-06-22
+1316,United Kingdom,1,2017-06-21
+1317,United Kingdom,3,2017-06-20
+1318,United Kingdom,2,2017-06-20
+1319,Canada,7,2017-06-19
+1320,France,1,2017-06-18
+1321,South Africa,2,2017-06-17
+1322,United Kingdom,5,2017-06-16
+1323,United Kingdom,2,2017-06-16
+1324,United Kingdom,8,2017-06-16
+1325,Italy,6,2017-06-15
+1326,United Kingdom,1,2017-06-15
+1327,United Kingdom,3,2017-06-13
+1328,United Kingdom,8,2017-06-13
+1329,United Kingdom,1,2017-06-13
+1330,United Kingdom,1,2017-06-13
+1331,Switzerland,1,2017-06-13
+1332,United Kingdom,1,2017-06-12
+1333,United Kingdom,1,2017-06-12
+1334,Turkey,3,2017-06-12
+1335,United Kingdom,1,2017-06-12
+1336,United Kingdom,1,2017-06-11
+1337,Australia,3,2017-06-10
+1338,United Kingdom,6,2017-06-10
+1339,United Kingdom,1,2017-06-09
+1340,Canada,3,2017-06-08
+1341,United Kingdom,3,2017-06-08
+1342,United Kingdom,1,2017-06-08
+1343,United Kingdom,9,2017-06-08
+1344,United Kingdom,1,2017-06-07
+1345,United Kingdom,3,2017-06-07
+1346,United Kingdom,1,2017-06-07
+1347,United States,10,2017-06-07
+1348,United Kingdom,2,2017-06-06
+1349,United Kingdom,1,2017-06-06
+1350,United States,2,2017-06-05
+1351,United Kingdom,1,2017-06-05
+1352,United Kingdom,1,2017-06-04
+1353,United Kingdom,1,2017-06-02
+1354,United Kingdom,2,2017-06-01
+1355,United Kingdom,1,2017-06-01
+1356,United Kingdom,3,2017-05-30
+1357,United Kingdom,3,2017-05-30
+1358,United States,4,2017-05-30
+1359,United Kingdom,2,2017-05-30
+1360,United Kingdom,6,2017-05-29
+1361,United Kingdom,5,2017-05-29
+1362,United Kingdom,2,2017-05-29
+1363,United Kingdom,4,2017-05-29
+1364,Indonesia,6,2017-05-28
+1365,United States,1,2017-05-27
+1366,Ireland,8,2017-05-24
+1367,Ireland,9,2017-05-24
+1368,United Kingdom,1,2017-05-23
+1369,Russian Federation,6,2017-05-22
+1370,United Kingdom,4,2017-05-22
+1371,United Kingdom,1,2017-05-20
+1372,United Kingdom,8,2017-05-19
+1373,United Kingdom,1,2017-05-17
+1374,Netherlands,9,2017-05-17
+1375,United Kingdom,3,2017-05-16
+1376,United Kingdom,2,2017-05-15
+1377,United Kingdom,10,2017-05-15
+1378,United Kingdom,1,2017-05-14
+1379,United Kingdom,8,2017-05-14
+1380,Mexico,6,2017-05-13
+1381,Italy,6,2017-05-13
+1382,United Kingdom,3,2017-05-13
+1383,United Kingdom,3,2017-05-12
+1384,United States,3,2017-05-12
+1385,United Kingdom,1,2017-05-11
+1386,United Kingdom,9,2017-05-11
+1387,United Kingdom,1,2017-05-10
+1388,United Kingdom,1,2017-05-09
+1389,Canada,1,2017-05-09
+1390,United Kingdom,7,2017-05-09
+1391,United Kingdom,7,2017-05-08
+1392,United Kingdom,7,2017-05-06
+1393,United Kingdom,10,2017-05-05
+1394,United Kingdom,1,2017-05-05
+1395,United Kingdom,2,2017-05-05
+1396,United Kingdom,8,2017-05-04
+1397,United Kingdom,7,2017-05-04
+1398,United Kingdom,2,2017-05-04
+1399,United Kingdom,1,2017-05-04
+1400,United Kingdom,2,2017-05-03
+1401,United Kingdom,1,2017-05-03
+1402,United Kingdom,2,2017-05-03
+1403,Bahrain,1,2017-05-03
+1404,United Kingdom,3,2017-05-03
+1405,Slovakia,1,2017-05-02
+1406,United Kingdom,7,2017-05-02
+1407,United Kingdom,1,2017-05-01
+1408,Switzerland,8,2017-05-01
+1409,Ireland,1,2017-04-30
+1410,United Kingdom,8,2017-04-30
+1411,United Kingdom,1,2017-04-30
+1412,United Kingdom,2,2017-04-29
+1413,Portugal,9,2017-04-29
+1414,United Kingdom,6,2017-04-27
+1415,United Kingdom,6,2017-04-27
+1416,United Kingdom,7,2017-04-27
+1417,United Kingdom,10,2017-04-27
+1418,United Kingdom,2,2017-04-26
+1419,United Kingdom,3,2017-04-26
+1420,United Kingdom,2,2017-04-26
+1421,United Kingdom,9,2017-04-26
+1422,Australia,7,2017-04-25
+1423,United Kingdom,5,2017-04-24
+1424,United Kingdom,2,2017-04-24
+1425,United Kingdom,3,2017-04-24
+1426,United Kingdom,1,2017-04-23
+1427,United Kingdom,3,2017-04-23
+1428,United Kingdom,1,2017-04-23
+1429,United States,9,2017-04-23
+1430,Italy,5,2017-04-22
+1431,United Kingdom,5,2017-04-21
+1432,United Kingdom,4,2017-04-21
+1433,Germany,1,2017-04-21
+1434,United Kingdom,1,2017-04-21
+1435,United Kingdom,9,2017-04-20
+1436,Dominican Republic,2,2017-04-20
+1437,United States,5,2017-04-19
+1438,United States,7,2017-04-19
+1439,United Kingdom,5,2017-04-19
+1440,Norway,10,2017-04-19
+1441,United Kingdom,1,2017-04-18
+1442,Mexico,8,2017-04-18
+1443,United Kingdom,4,2017-04-18
+1444,Hong Kong,1,2017-04-18
+1445,United Kingdom,1,2017-04-18
+1446,United States,2,2017-04-17
+1447,United Kingdom,1,2017-04-17
+1448,United States,2,2017-04-17
+1449,United Kingdom,1,2017-04-16
+1450,United States,1,2017-04-16
+1451,Bulgaria,9,2017-04-16
+1452,China,10,2017-04-15
+1453,United Kingdom,2,2017-04-15
+1454,United Kingdom,1,2017-04-14
+1455,United States,1,2017-04-14
+1456,United Kingdom,1,2017-04-13
+1457,United Kingdom,2,2017-04-12
+1458,United Kingdom,4,2017-04-11
+1459,United Kingdom,1,2017-04-11
+1460,United Kingdom,1,2017-04-10
+1461,Australia,4,2017-04-10
+1462,United Kingdom,1,2017-04-09
+1463,United Kingdom,8,2017-04-09
+1464,United Kingdom,3,2017-04-08
+1465,Germany,1,2017-04-07
+1466,United Kingdom,1,2017-04-07
+1467,United Kingdom,1,2017-04-06
+1468,United Kingdom,5,2017-04-06
+1469,United Kingdom,2,2017-04-05
+1470,United Kingdom,3,2017-04-05
+1471,United Kingdom,1,2017-04-04
+1472,Australia,6,2017-04-03
+1473,United Kingdom,7,2017-04-02
+1474,Portugal,4,2017-04-02
+1475,Netherlands,4,2017-04-01
+1476,Australia,2,2017-03-29
+1477,United Kingdom,3,2017-03-29
+1478,United Kingdom,3,2017-03-27
+1479,United Kingdom,4,2017-03-27
+1480,Germany,2,2017-03-26
+1481,United Kingdom,10,2017-03-26
+1482,United Kingdom,3,2017-03-25
+1483,Canada,4,2017-03-24
+1484,United Kingdom,1,2017-03-24
+1485,United Kingdom,3,2017-03-23
+1486,United Kingdom,5,2017-03-22
+1487,Canada,1,2017-03-22
+1488,United Kingdom,6,2017-03-21
+1489,United Kingdom,1,2017-03-21
+1490,United Kingdom,3,2017-03-20
+1491,United Kingdom,3,2017-03-20
+1492,United Kingdom,5,2017-03-20
+1493,United Kingdom,4,2017-03-17
+1494,United Kingdom,2,2017-03-17
+1495,Canada,1,2017-03-16
+1496,Sweden,4,2017-03-16
+1497,United Kingdom,3,2017-03-16
+1498,United Kingdom,9,2017-03-16
+1499,United Kingdom,3,2017-03-14
+1500,Netherlands,4,2017-03-13
+1501,France,2,2017-03-13
+1502,United Kingdom,1,2017-03-13
+1503,Ireland,2,2017-03-11
+1504,United Kingdom,3,2017-03-11
+1505,United Kingdom,5,2017-03-10
+1506,United Kingdom,1,2017-03-10
+1507,United Kingdom,2,2017-03-09
+1508,United Kingdom,3,2017-03-09
+1509,United Kingdom,1,2017-03-09
+1510,United Kingdom,5,2017-03-08
+1511,United Kingdom,5,2017-03-08
+1512,Singapore,5,2017-03-08
+1513,United Kingdom,4,2017-03-07
+1514,United Kingdom,3,2017-03-07
+1515,Kuwait,7,2017-03-06
+1516,United Kingdom,3,2017-03-06
+1517,United Kingdom,7,2017-03-04
+1518,Canada,10,2017-03-04
+1519,Canada,1,2017-03-04
+1520,United Kingdom,4,2017-03-03
+1521,Cyprus,2,2017-03-01
+1522,United States,4,2017-02-28
+1523,United Kingdom,9,2017-02-28
+1524,United Kingdom,1,2017-02-27
+1525,United Kingdom,10,2017-02-26
+1526,United Kingdom,2,2017-02-25
+1527,United Kingdom,2,2017-02-24
+1528,Canada,4,2017-02-24
+1529,United Kingdom,6,2017-02-24
+1530,United Kingdom,2,2017-02-24
+1531,Germany,7,2017-02-23
+1532,Canada,3,2017-02-23
+1533,United Kingdom,1,2017-02-22
+1534,United Kingdom,1,2017-02-22
+1535,United Kingdom,8,2017-02-21
+1536,Canada,7,2017-02-21
+1537,United Kingdom,1,2017-02-21
+1538,United Kingdom,8,2017-02-20
+1539,United Kingdom,5,2017-02-20
+1540,United Kingdom,2,2017-02-20
+1541,Ghana,4,2017-02-19
+1542,United Kingdom,4,2017-02-18
+1543,United Kingdom,7,2017-02-18
+1544,United Kingdom,10,2017-02-17
+1545,United Kingdom,1,2017-02-17
+1546,China,7,2017-02-16
+1547,China,8,2017-02-16
+1548,United States,1,2017-02-16
+1549,United Kingdom,3,2017-02-15
+1550,United Kingdom,9,2017-02-15
+1551,United Kingdom,3,2017-02-15
+1552,United Kingdom,2,2017-02-14
+1553,Australia,3,2017-02-14
+1554,United Kingdom,1,2017-02-13
+1555,United Kingdom,3,2017-02-13
+1556,United States,1,2017-02-11
+1557,United Kingdom,2,2017-02-11
+1558,Spain,1,2017-02-10
+1559,United Kingdom,1,2017-02-08
+1560,United Kingdom,3,2017-02-08
+1561,United Kingdom,2,2017-02-08
+1562,United States,9,2017-02-08
+1563,China,8,2017-02-07
+1564,United Kingdom,1,2017-02-07
+1565,China,8,2017-02-07
+1566,United Kingdom,8,2017-02-06
+1567,United Kingdom,4,2017-02-06
+1568,France,8,2017-02-06
+1569,United Kingdom,9,2017-02-04
+1570,United Kingdom,5,2017-02-04
+1571,Denmark,3,2017-02-04
+1572,Poland,8,2017-02-03
+1573,United Kingdom,2,2017-02-03
+1574,United Kingdom,8,2017-02-01
+1575,United States,1,2017-02-01
+1576,United Kingdom,2,2017-01-31
+1577,United Kingdom,1,2017-01-31
+1578,United Kingdom,1,2017-01-31
+1579,United States,10,2017-01-30
+1580,Canada,7,2017-01-30
+1581,United States,3,2017-01-30
+1582,United Kingdom,2,2017-01-30
+1583,United Kingdom,4,2017-01-29
+1584,Switzerland,2,2017-01-27
+1585,United Kingdom,2,2017-01-27
+1586,United Kingdom,9,2017-01-27
+1587,United Kingdom,2,2017-01-26
+1588,Canada,1,2017-01-26
+1589,United Kingdom,6,2017-01-26
+1590,United Kingdom,5,2017-01-26
+1591,United Kingdom,6,2017-01-25
+1592,United Kingdom,4,2017-01-24
+1593,United Kingdom,8,2017-01-24
+1594,United States,7,2017-01-23
+1595,United Kingdom,1,2017-01-23
+1596,United Kingdom,2,2017-01-23
+1597,United Kingdom,1,2017-01-22
+1598,United Kingdom,5,2017-01-22
+1599,United Kingdom,3,2017-01-21
+1600,France,1,2017-01-21
+1601,Japan,3,2017-01-20
+1602,United Kingdom,10,2017-01-20
+1603,United Kingdom,6,2017-01-19
+1604,United Kingdom,2,2017-01-18
+1605,United Kingdom,2,2017-01-18
+1606,China,2,2017-01-18
+1607,China,1,2017-01-17
+1608,United Kingdom,1,2017-01-17
+1609,United Kingdom,6,2017-01-16
+1610,United States,2,2017-01-16
+1611,United Kingdom,1,2017-01-16
+1612,United Kingdom,1,2017-01-16
+1613,United Kingdom,7,2017-01-15
+1614,United Kingdom,4,2017-01-14
+1615,United Kingdom,3,2017-01-14
+1616,Switzerland,2,2017-01-13
+1617,Czech Republic,1,2017-01-13
+1618,United Kingdom,8,2017-01-12
+1619,United Kingdom,8,2017-01-11
+1620,United Kingdom,2,2017-01-11
+1621,United Kingdom,2,2017-01-10
+1622,United Kingdom,3,2017-01-10
+1623,Greece,10,2017-01-09
+1624,United Kingdom,2,2017-01-08
+1625,United Kingdom,1,2017-01-05
+1626,United Kingdom,2,2017-01-05
+1627,Australia,1,2017-01-05
+1628,France,1,2017-01-05
+1629,Hong Kong,2,2017-01-03
+1630,Canada,9,2017-01-02
+1631,United Kingdom,6,2017-01-02
+1632,United Kingdom,1,2017-01-02
+1633,Sweden,4,2017-01-02
+1634,United Kingdom,5,2017-01-01
+1635,United Kingdom,5,2016-12-29
+1636,Canada,1,2016-12-29
+1637,United Kingdom,10,2016-12-27
+1638,United Kingdom,7,2016-12-27
+1639,United Kingdom,1,2016-12-26
+1640,United Kingdom,9,2016-12-26
+1641,United Kingdom,10,2016-12-25
+1642,Luxembourg,7,2016-12-23
+1643,United States,1,2016-12-22
+1644,United Kingdom,5,2016-12-22
+1645,United Kingdom,7,2016-12-22
+1646,Canada,1,2016-12-21
+1647,United Kingdom,1,2016-12-21
+1648,United Kingdom,2,2016-12-19
+1649,United Kingdom,2,2016-12-19
+1650,United Kingdom,9,2016-12-17
+1651,Thailand,1,2016-12-17
+1652,United Kingdom,3,2016-12-16
+1653,United Kingdom,6,2016-12-15
+1654,Australia,9,2016-12-14
+1655,United Kingdom,2,2016-12-14
+1656,Singapore,7,2016-12-13
+1657,United Kingdom,3,2016-12-13
+1658,United States,4,2016-12-13
+1659,United Kingdom,1,2016-12-12
+1660,United States,1,2016-12-11
+1661,United States,5,2016-12-11
+1662,United States,4,2016-12-11
+1663,China,8,2016-12-10
+1664,United Kingdom,1,2016-12-10
+1665,United States,10,2016-12-09
+1666,United Kingdom,3,2016-12-09
+1667,United Kingdom,2,2016-12-08
+1668,United States,6,2016-12-08
+1669,United States,9,2016-12-08
+1670,United States,9,2016-12-08
+1671,United Kingdom,2,2016-12-08
+1672,United States,7,2016-12-08
+1673,United Kingdom,2,2016-12-07
+1674,Australia,6,2016-12-07
+1675,United Kingdom,1,2016-12-06
+1676,United Kingdom,7,2016-12-06
+1677,United Kingdom,1,2016-12-06
+1678,United Kingdom,4,2016-12-05
+1679,United Kingdom,1,2016-12-05
+1680,United Kingdom,8,2016-12-04
+1681,Australia,1,2016-12-04
+1682,United Kingdom,1,2016-12-03
+1683,United Kingdom,6,2016-12-03
+1684,United Kingdom,3,2016-12-02
+1685,United Kingdom,3,2016-12-01
+1686,United Kingdom,1,2016-11-30
+1687,United Kingdom,1,2016-11-30
+1688,United Kingdom,9,2016-11-29
+1689,Malaysia,8,2016-11-29
+1690,Australia,7,2016-11-29
+1691,United Kingdom,10,2016-11-28
+1692,United Kingdom,6,2016-11-28
+1693,Singapore,9,2016-11-28
+1694,United Kingdom,9,2016-11-27
+1695,United Kingdom,7,2016-11-27
+1696,Singapore,3,2016-11-27
+1697,United Kingdom,1,2016-11-27
+1698,United States,7,2016-11-27
+1699,United Kingdom,6,2016-11-26
+1700,Germany,5,2016-11-25
+1701,United Kingdom,10,2016-11-25
+1702,United Kingdom,1,2016-11-25
+1703,United Kingdom,2,2016-11-25
+1704,United Kingdom,8,2016-11-25
+1705,United Kingdom,8,2016-11-24
+1706,United Kingdom,9,2016-11-23
+1707,Thailand,1,2016-11-23
+1708,United Kingdom,2,2016-11-23
+1709,United Kingdom,1,2016-11-23
+1710,United Kingdom,5,2016-11-23
+1711,United Kingdom,1,2016-11-22
+1712,United Kingdom,3,2016-11-21
+1713,United Kingdom,9,2016-11-21
+1714,United Kingdom,9,2016-11-21
+1715,United Kingdom,1,2016-11-21
+1716,Canada,7,2016-11-18
+1717,United Kingdom,2,2016-11-17
+1718,South Africa,3,2016-11-17
+1719,United States,10,2016-11-16
+1720,United States,3,2016-11-16
+1721,United States,9,2016-11-15
+1722,United Kingdom,8,2016-11-15
+1723,Portugal,4,2016-11-14
+1724,United Kingdom,1,2016-11-14
+1725,Portugal,9,2016-11-14
+1726,United Kingdom,3,2016-11-13
+1727,United Kingdom,3,2016-11-12
+1728,United Kingdom,4,2016-11-11
+1729,United Kingdom,3,2016-11-10
+1730,United Kingdom,1,2016-11-10
+1731,United Kingdom,10,2016-11-09
+1732,South Africa,2,2016-11-09
+1733,United Kingdom,9,2016-11-09
+1734,United Kingdom,2,2016-11-08
+1735,Greece,4,2016-11-08
+1736,United Kingdom,7,2016-11-08
+1737,United Kingdom,2,2016-11-08
+1738,Cyprus,3,2016-11-08
+1739,United Kingdom,2,2016-11-07
+1740,United Kingdom,6,2016-11-07
+1741,United Kingdom,4,2016-11-07
+1742,United Kingdom,9,2016-11-06
+1743,United Kingdom,8,2016-11-05
+1744,United Kingdom,2,2016-11-05
+1745,United Kingdom,9,2016-11-04
+1746,United Kingdom,2,2016-11-04
+1747,United Kingdom,3,2016-11-03
+1748,United Kingdom,2,2016-11-03
+1749,United Kingdom,10,2016-11-01
+1750,United Kingdom,9,2016-11-01
+1751,United Kingdom,4,2016-11-01
+1752,United States,9,2016-10-31
+1753,Canada,4,2016-10-30
+1754,United Kingdom,7,2016-10-30
+1755,United Kingdom,9,2016-10-29
+1756,Kuwait,10,2016-10-29
+1757,Qatar,10,2016-10-29
+1758,Singapore,4,2016-10-27
+1759,Belgium,1,2016-10-27
+1760,United Kingdom,3,2016-10-26
+1761,Netherlands,6,2016-10-25
+1762,United Kingdom,3,2016-10-24
+1763,United Kingdom,4,2016-10-24
+1764,Thailand,1,2016-10-24
+1765,United Kingdom,8,2016-10-23
+1766,United Kingdom,1,2016-10-23
+1767,United Kingdom,8,2016-10-23
+1768,United Kingdom,1,2016-10-22
+1769,United Kingdom,2,2016-10-20
+1770,United Kingdom,3,2016-10-20
+1771,United Kingdom,1,2016-10-18
+1772,South Africa,4,2016-10-18
+1773,United Kingdom,3,2016-10-17
+1774,United Kingdom,3,2016-10-17
+1775,Australia,2,2016-10-16
+1776,New Zealand,1,2016-10-16
+1777,United Kingdom,5,2016-10-15
+1778,Ireland,3,2016-10-15
+1779,United Kingdom,10,2016-10-15
+1780,Ireland,7,2016-10-15
+1781,Czech Republic,1,2016-10-15
+1782,Australia,2,2016-10-13
+1783,United Kingdom,1,2016-10-12
+1784,United States,4,2016-10-11
+1785,United Kingdom,1,2016-10-11
+1786,United Kingdom,3,2016-10-10
+1787,United Kingdom,5,2016-10-10
+1788,Canada,3,2016-10-10
+1789,United Kingdom,1,2016-10-07
+1790,United Kingdom,2,2016-10-07
+1791,United Kingdom,4,2016-10-07
+1792,United Arab Emirates,2,2016-10-06
+1793,United Kingdom,5,2016-10-05
+1794,Portugal,8,2016-10-05
+1795,Portugal,9,2016-10-05
+1796,Canada,4,2016-10-04
+1797,United States,4,2016-10-03
+1798,United States,7,2016-10-03
+1799,Germany,5,2016-10-03
+1800,United Kingdom,4,2016-10-01
+1801,United Kingdom,7,2016-10-01
+1802,United Kingdom,2,2016-09-30
+1803,Thailand,3,2016-09-30
+1804,United Kingdom,1,2016-09-30
+1805,United Kingdom,2,2016-09-30
+1806,Australia,9,2016-09-30
+1807,United Kingdom,5,2016-09-29
+1808,United Kingdom,5,2016-09-29
+1809,Australia,8,2016-09-29
+1810,United Kingdom,8,2016-09-29
+1811,United States,8,2016-09-28
+1812,United Kingdom,7,2016-09-28
+1813,New Zealand,5,2016-09-27
+1814,Argentina,8,2016-09-27
+1815,United Kingdom,9,2016-09-25
+1816,Germany,8,2016-09-25
+1817,United States,1,2016-09-25
+1818,Ireland,1,2016-09-23
+1819,United Arab Emirates,8,2016-09-23
+1820,United Kingdom,3,2016-09-23
+1821,United Kingdom,5,2016-09-23
+1822,United Arab Emirates,3,2016-09-22
+1823,United Kingdom,2,2016-09-22
+1824,United Kingdom,1,2016-09-21
+1825,Taiwan,8,2016-09-21
+1826,United States,4,2016-09-21
+1827,United Kingdom,1,2016-09-21
+1828,Australia,1,2016-09-20
+1829,United Kingdom,3,2016-09-20
+1830,United Kingdom,6,2016-09-20
+1831,Australia,4,2016-09-19
+1832,United Kingdom,1,2016-09-18
+1833,United Kingdom,2,2016-09-18
+1834,United Kingdom,3,2016-09-17
+1835,United Kingdom,8,2016-09-17
+1836,United Kingdom,5,2016-09-17
+1837,United Kingdom,2,2016-09-15
+1838,United Kingdom,3,2016-09-15
+1839,United Kingdom,4,2016-09-14
+1840,United Kingdom,4,2016-09-14
+1841,United Kingdom,1,2016-09-14
+1842,United Kingdom,8,2016-09-14
+1843,United Kingdom,6,2016-09-14
+1844,Switzerland,4,2016-09-14
+1845,Switzerland,8,2016-09-14
+1846,United Kingdom,4,2016-09-14
+1847,United Kingdom,2,2016-09-11
+1848,United Kingdom,9,2016-09-11
+1849,Germany,1,2016-09-11
+1850,United Kingdom,2,2016-09-07
+1851,Germany,2,2016-09-07
+1852,Austria,6,2016-09-05
+1853,United Kingdom,4,2016-09-04
+1854,United Kingdom,7,2016-09-03
+1855,United Kingdom,3,2016-09-01
+1856,Cyprus,5,2016-09-01
+1857,Germany,8,2016-08-31
+1858,Singapore,1,2016-08-31
+1859,United Kingdom,10,2016-08-31
+1860,United Kingdom,3,2016-08-30
+1861,United Kingdom,6,2016-08-29
+1862,United Kingdom,4,2016-08-29
+1863,Australia,7,2016-08-28
+1864,United Kingdom,2,2016-08-27
+1865,United Kingdom,5,2016-08-26
+1866,Germany,1,2016-08-24
+1867,United Kingdom,4,2016-08-23
+1868,United Kingdom,4,2016-08-23
+1869,Canada,3,2016-08-23
+1870,New Zealand,4,2016-08-22
+1871,United Kingdom,1,2016-08-21
+1872,United Kingdom,9,2016-08-19
+1873,United Kingdom,1,2016-08-19
+1874,United Kingdom,7,2016-08-18
+1875,United Kingdom,3,2016-08-17
+1876,United Kingdom,5,2016-08-16
+1877,China,7,2016-08-16
+1878,United Kingdom,3,2016-08-16
+1879,United Kingdom,8,2016-08-14
+1880,United States,5,2016-08-14
+1881,United Kingdom,1,2016-08-14
+1882,Switzerland,10,2016-08-13
+1883,Germany,7,2016-08-13
+1884,United Kingdom,10,2016-08-13
+1885,United Kingdom,1,2016-08-11
+1886,United States,2,2016-08-06
+1887,Mexico,3,2016-08-04
+1888,Switzerland,1,2016-08-03
+1889,Singapore,8,2016-08-03
+1890,United Kingdom,7,2016-08-01
+1891,United Kingdom,6,2016-08-01
+1892,Qatar,8,2016-07-31
+1893,Brazil,6,2016-07-30
+1894,United Kingdom,7,2016-07-29
+1895,United Kingdom,7,2016-07-26
+1896,Australia,8,2016-07-25
+1897,United Kingdom,8,2016-07-24
+1898,Germany,6,2016-07-24
+1899,United Kingdom,10,2016-07-24
+1900,United Kingdom,5,2016-07-23
+1901,Thailand,5,2016-07-22
+1902,United Kingdom,1,2016-07-22
+1903,United Kingdom,1,2016-07-19
+1904,United Kingdom,1,2016-07-18
+1905,United Kingdom,1,2016-07-16
+1906,United States,4,2016-07-16
+1907,United Kingdom,10,2016-07-15
+1908,United Kingdom,10,2016-07-15
+1909,United Kingdom,3,2016-07-14
+1910,United Kingdom,7,2016-07-14
+1911,United Kingdom,3,2016-07-13
+1912,United States,7,2016-07-13
+1913,United Kingdom,1,2016-07-13
+1914,Netherlands,3,2016-07-12
+1915,United States,1,2016-07-11
+1916,United Kingdom,2,2016-07-10
+1917,United Kingdom,2,2016-07-10
+1918,United States,1,2016-07-10
+1919,United Kingdom,4,2016-07-10
+1920,United Kingdom,2,2016-07-08
+1921,Switzerland,1,2016-07-08
+1922,United Kingdom,9,2016-07-07
+1923,United Kingdom,2,2016-07-06
+1924,Australia,1,2016-07-02
+1925,United Kingdom,8,2016-07-01
+1926,United Kingdom,8,2016-06-30
+1927,United Kingdom,1,2016-06-30
+1928,Netherlands,3,2016-06-30
+1929,United Kingdom,8,2016-06-29
+1930,United Kingdom,6,2016-06-28
+1931,United Kingdom,9,2016-06-27
+1932,United States,2,2016-06-24
+1933,United Kingdom,1,2016-06-23
+1934,United States,3,2016-06-21
+1935,United Kingdom,3,2016-06-20
+1936,United Kingdom,3,2016-06-20
+1937,United Kingdom,10,2016-06-19
+1938,United Kingdom,8,2016-06-18
+1939,United Kingdom,8,2016-06-18
+1940,United Kingdom,2,2016-06-18
+1941,Bermuda,2,2016-06-17
+1942,United Kingdom,2,2016-06-17
+1943,United Kingdom,10,2016-06-17
+1944,United Kingdom,1,2016-06-16
+1945,United Kingdom,1,2016-06-16
+1946,United Kingdom,1,2016-06-16
+1947,United Kingdom,5,2016-06-16
+1948,United States,3,2016-06-15
+1949,United Kingdom,10,2016-06-14
+1950,United Kingdom,8,2016-06-14
+1951,United Kingdom,1,2016-06-14
+1952,United States,2,2016-06-12
+1953,United Kingdom,4,2016-06-12
+1954,Australia,7,2016-06-11
+1955,United Kingdom,3,2016-06-11
+1956,Australia,4,2016-06-10
+1957,United Kingdom,10,2016-06-09
+1958,United States,8,2016-06-09
+1959,United Kingdom,8,2016-06-08
+1960,United Kingdom,2,2016-06-06
+1961,Germany,4,2016-06-05
+1962,United Kingdom,10,2016-06-05
+1963,United Kingdom,5,2016-06-04
+1964,United Kingdom,7,2016-06-04
+1965,United Kingdom,3,2016-06-03
+1966,United Kingdom,4,2016-06-03
+1967,United Kingdom,5,2016-06-02
+1968,United States,9,2016-06-02
+1969,Switzerland,3,2016-05-31
+1970,United Kingdom,4,2016-05-31
+1971,United Kingdom,8,2016-05-30
+1972,Philippines,8,2016-05-29
+1973,United Kingdom,5,2016-05-27
+1974,United Kingdom,8,2016-05-27
+1975,United Kingdom,9,2016-05-26
+1976,United Kingdom,2,2016-05-26
+1977,United Kingdom,1,2016-05-26
+1978,Thailand,7,2016-05-25
+1979,United Kingdom,5,2016-05-25
+1980,United Kingdom,8,2016-05-24
+1981,United States,2,2016-05-24
+1982,United Kingdom,10,2016-05-23
+1983,Netherlands,8,2016-05-21
+1984,United Kingdom,1,2016-05-20
+1985,United Kingdom,5,2016-05-20
+1986,United Kingdom,1,2016-05-20
+1987,United Kingdom,10,2016-05-20
+1988,United Kingdom,6,2016-05-19
+1989,United Kingdom,5,2016-05-19
+1990,United Kingdom,8,2016-05-19
+1991,United Kingdom,4,2016-05-19
+1992,United Kingdom,7,2016-05-19
+1993,United Kingdom,8,2016-05-18
+1994,United Kingdom,5,2016-05-18
+1995,United Kingdom,2,2016-05-18
+1996,United Kingdom,2,2016-05-18
+1997,United Kingdom,7,2016-05-17
+1998,Australia,3,2016-05-17
+1999,United Kingdom,9,2016-05-17
+2000,United States,1,2016-05-16
+2001,United Kingdom,1,2016-05-16
+2002,United Kingdom,8,2016-05-15
+2003,France,5,2016-05-14
+2004,United Kingdom,1,2016-05-14
+2005,United States,5,2016-05-12
+2006,France,3,2016-05-11
+2007,United Kingdom,7,2016-05-10
+2008,United Kingdom,1,2016-05-09
+2009,Germany,3,2016-05-09
+2010,Australia,1,2016-05-09
+2011,United Kingdom,2,2016-05-06
+2012,United Kingdom,3,2016-05-05
+2013,United Kingdom,10,2016-05-04
+2014,New Zealand,2,2016-05-04
+2015,Canada,9,2016-05-04
+2016,United Kingdom,3,2016-05-04
+2017,United Kingdom,5,2016-05-02
+2018,Australia,3,2016-05-02
+2019,United Kingdom,7,2016-05-01
+2020,United Kingdom,8,2016-04-30
+2021,United Kingdom,7,2016-04-30
+2022,United Kingdom,7,2016-04-29
+2023,Belgium,10,2016-04-27
+2024,United States,5,2016-04-27
+2025,United Kingdom,1,2016-04-27
+2026,United Kingdom,1,2016-04-26
+2027,United Kingdom,1,2016-04-25
+2028,United Kingdom,7,2016-04-25
+2029,United Kingdom,9,2016-04-22
+2030,Belgium,3,2016-04-21
+2031,United Kingdom,10,2016-04-21
+2032,United Kingdom,10,2016-04-20
+2033,United Kingdom,4,2016-04-20
+2034,United Kingdom,6,2016-04-20
+2035,Canada,2,2016-04-20
+2036,United States,4,2016-04-19
+2037,United Kingdom,3,2016-04-18
+2038,United Kingdom,2,2016-04-17
+2039,United Kingdom,1,2016-04-16
+2040,United Kingdom,2,2016-04-15
+2041,United Kingdom,10,2016-04-14
+2042,United Kingdom,8,2016-04-13
+2043,China,8,2016-04-13
+2044,Canada,8,2016-04-13
+2045,China,7,2016-04-12
+2046,China,8,2016-04-12
+2047,United Kingdom,10,2016-04-12
+2048,United Kingdom,8,2016-04-12
+2049,United Kingdom,9,2016-04-12
+2050,United Kingdom,8,2016-04-11
+2051,Belgium,4,2016-04-08
+2052,United Kingdom,5,2016-04-07
+2053,United Kingdom,6,2016-04-06
+2054,Canada,2,2016-04-05
+2055,United Kingdom,7,2016-04-05
+2056,United Kingdom,10,2016-04-04
+2057,Denmark,5,2016-04-04
+2058,United Kingdom,8,2016-04-02
+2059,Canada,9,2016-04-02
+2060,Canada,10,2016-04-02
+2061,United Kingdom,6,2016-04-01
+2062,United States,7,2016-04-01
+2063,United Kingdom,3,2016-03-31
+2064,United Kingdom,2,2016-03-31
+2065,United Kingdom,4,2016-03-31
+2066,United Kingdom,7,2016-03-27
+2067,Norway,7,2016-03-27
+2068,United Kingdom,7,2016-03-27
+2069,United Kingdom,8,2016-03-26
+2070,United Kingdom,3,2016-03-26
+2071,Switzerland,8,2016-03-25
+2072,United Kingdom,1,2016-03-24
+2073,South Africa,7,2016-03-23
+2074,United Kingdom,7,2016-03-23
+2075,Malaysia,5,2016-03-23
+2076,United States,10,2016-03-22
+2077,United Kingdom,10,2016-03-20
+2078,United States,3,2016-03-20
+2079,United Kingdom,6,2016-03-20
+2080,United States,3,2016-03-20
+2081,United Kingdom,1,2016-03-19
+2082,United Kingdom,9,2016-03-18
+2083,Greece,7,2016-03-16
+2084,Germany,9,2016-03-16
+2085,United Kingdom,10,2016-03-16
+2086,United Kingdom,1,2016-03-15
+2087,Finland,10,2016-03-14
+2088,United Kingdom,5,2016-03-13
+2089,United Kingdom,1,2016-03-13
+2090,Switzerland,7,2016-03-13
+2091,Switzerland,8,2016-03-12
+2092,United States,1,2016-03-12
+2093,United Kingdom,4,2016-03-12
+2094,United Kingdom,2,2016-03-11
+2095,United Kingdom,10,2016-03-10
+2096,United Kingdom,3,2016-03-10
+2097,United Kingdom,9,2016-03-10
+2098,United Kingdom,5,2016-03-09
+2099,United Kingdom,8,2016-03-09
+2100,United Kingdom,1,2016-03-09
+2101,United Kingdom,8,2016-03-08
+2102,United Kingdom,2,2016-03-08
+2103,United Kingdom,9,2016-03-08
+2104,Denmark,8,2016-03-07
+2105,United Kingdom,8,2016-03-07
+2106,Australia,4,2016-03-07
+2107,United Kingdom,3,2016-03-07
+2108,United Kingdom,7,2016-03-06
+2109,United Kingdom,9,2016-03-06
+2110,United Kingdom,9,2016-03-06
+2111,United Kingdom,8,2016-03-05
+2112,United Kingdom,7,2016-03-05
+2113,United Kingdom,5,2016-03-04
+2114,United Kingdom,4,2016-03-04
+2115,Switzerland,8,2016-03-02
+2116,United Kingdom,9,2016-03-01
+2117,Netherlands,1,2016-02-29
+2118,Romania,3,2016-02-29
+2119,United States,7,2016-02-28
+2120,United Kingdom,2,2016-02-27
+2121,United Kingdom,3,2016-02-27
+2122,United States,1,2016-02-27
+2123,United States,8,2016-02-26
+2124,United Kingdom,9,2016-02-26
+2125,United Kingdom,3,2016-02-25
+2126,United Kingdom,2,2016-02-25
+2127,United Kingdom,9,2016-02-25
+2128,United Kingdom,1,2016-02-24
+2129,United States,2,2016-02-24
+2130,United Kingdom,6,2016-02-23
+2131,United Kingdom,8,2016-02-22
+2132,United Kingdom,1,2016-02-22
+2133,United Kingdom,3,2016-02-22
+2134,United Kingdom,6,2016-02-20
+2135,Canada,1,2016-02-18
+2136,United Kingdom,8,2016-02-15
+2137,United Kingdom,9,2016-02-13
+2138,United Kingdom,7,2016-02-13
+2139,United Kingdom,3,2016-02-13
+2140,Italy,8,2016-02-12
+2141,United Kingdom,8,2016-02-10
+2142,United States,8,2016-02-09
+2143,United Kingdom,9,2016-02-09
+2144,United States,8,2016-02-09
+2145,United Kingdom,2,2016-02-08
+2146,Brazil,4,2016-02-07
+2147,United Kingdom,8,2016-02-07
+2148,United Kingdom,3,2016-02-07
+2149,United Kingdom,10,2016-02-05
+2150,South Africa,8,2016-02-04
+2151,United Kingdom,5,2016-02-02
+2152,United Kingdom,1,2016-02-02
+2153,United Kingdom,8,2016-02-02
+2154,Poland,7,2016-01-30
+2155,United Kingdom,10,2016-01-29
+2156,United Kingdom,7,2016-01-28
+2157,United States,1,2016-01-27
+2158,Canada,2,2016-01-26
+2159,United Kingdom,3,2016-01-23
+2160,United Kingdom,7,2016-01-23
+2161,United Kingdom,1,2016-01-22
+2162,United Kingdom,7,2016-01-22
+2163,United Kingdom,4,2016-01-20
+2164,United Kingdom,3,2016-01-19
+2165,United Kingdom,10,2016-01-18
+2166,Kuwait,10,2016-01-16
+2167,United Kingdom,6,2016-01-16
+2168,United Kingdom,1,2016-01-16
+2169,United Kingdom,6,2016-01-16
+2170,United Kingdom,7,2016-01-16
+2171,United Kingdom,1,2016-01-15
+2172,Thailand,4,2016-01-15
+2173,United Kingdom,8,2016-01-15
+2174,United Kingdom,2,2016-01-14
+2175,Netherlands,8,2016-01-13
+2176,Germany,4,2016-01-12
+2177,Canada,8,2016-01-12
+2178,United Kingdom,2,2016-01-12
+2179,Germany,8,2016-01-11
+2180,United Kingdom,2,2016-01-10
+2181,United Kingdom,3,2016-01-10
+2182,United Kingdom,7,2016-01-10
+2183,Saudi Arabia,7,2016-01-09
+2184,United Kingdom,1,2016-01-09
+2185,United Kingdom,3,2016-01-08
+2186,United Kingdom,6,2016-01-08
+2187,Romania,8,2016-01-07
+2188,Canada,7,2016-01-07
+2189,United Kingdom,8,2016-01-07
+2190,United Kingdom,1,2016-01-07
+2191,Germany,6,2016-01-07
+2192,United Kingdom,1,2016-01-06
+2193,United Kingdom,3,2016-01-06
+2194,United Kingdom,8,2016-01-05
+2195,United Kingdom,2,2016-01-05
+2196,United States,7,2016-01-05
+2197,Canada,9,2016-01-05
+2198,United Kingdom,2,2016-01-04
+2199,United Kingdom,1,2016-01-04
+2200,United Kingdom,2,2016-01-02
+2201,United States,6,2016-01-02
+2202,India,8,2016-01-02
+2203,Spain,9,2016-01-02
+2204,United Kingdom,1,2016-01-01
+2205,Austria,5,2015-12-30
+2206,France,7,2015-12-30
+2207,United Kingdom,4,2015-12-28
+2208,Saudi Arabia,10,2015-12-28
+2209,United Kingdom,3,2015-12-27
+2210,United States,1,2015-12-25
+2211,Canada,5,2015-12-25
+2212,United Kingdom,4,2015-12-25
+2213,South Africa,2,2015-12-22
+2214,United Kingdom,3,2015-12-21
+2215,United Kingdom,1,2015-12-21
+2216,United Kingdom,9,2015-12-20
+2217,United Kingdom,9,2015-12-20
+2218,Thailand,1,2015-12-19
+2219,United Kingdom,1,2015-12-19
+2220,United States,5,2015-12-18
+2221,Japan,9,2015-12-18
+2222,United Kingdom,9,2015-12-16
+2223,Slovakia,7,2015-12-16
+2224,Spain,7,2015-12-16
+2225,United Kingdom,5,2015-12-16
+2226,United Kingdom,9,2015-12-16
+2227,United Kingdom,1,2015-12-16
+2228,United Kingdom,10,2015-12-15
+2229,United Kingdom,3,2015-12-15
+2230,United Kingdom,1,2015-12-15
+2231,United Kingdom,10,2015-12-15
+2232,United Kingdom,10,2015-12-14
+2233,United Kingdom,9,2015-12-12
+2234,United Kingdom,7,2015-12-12
+2235,United Kingdom,10,2015-12-11
+2236,United Kingdom,1,2015-12-11
+2237,United Kingdom,2,2015-12-11
+2238,United Kingdom,3,2015-12-11
+2239,United Kingdom,10,2015-12-11
+2240,United States,10,2015-12-11
+2241,United States,8,2015-12-10
+2242,United States,6,2015-12-10
+2243,United Kingdom,9,2015-12-10
+2244,Germany,9,2015-12-10
+2245,United States,3,2015-12-10
+2246,United Kingdom,9,2015-12-09
+2247,United Kingdom,7,2015-12-09
+2248,United Kingdom,10,2015-12-08
+2249,United Kingdom,4,2015-12-07
+2250,United Kingdom,6,2015-12-05
+2251,United Kingdom,8,2015-12-05
+2252,Belgium,7,2015-12-04
+2253,Denmark,3,2015-12-02
+2254,United Kingdom,8,2015-12-01
+2255,United Kingdom,6,2015-12-01
+2256,United Kingdom,1,2015-12-01
+2257,United Kingdom,6,2015-12-01
+2258,United States,2,2015-12-01
+2259,United Kingdom,5,2015-12-01
+2260,United States,6,2015-12-01
+2261,United Kingdom,8,2015-12-01
+2262,United Kingdom,9,2015-12-01
+2263,United Kingdom,3,2015-11-30
+2264,United Kingdom,3,2015-11-30
+2265,United Kingdom,4,2015-11-29
+2266,United Kingdom,4,2015-11-29
+2267,United Kingdom,6,2015-11-29
+2268,United States,1,2015-11-28
+2269,United Kingdom,4,2015-11-27
+2270,United Kingdom,1,2015-11-27
+2271,United Kingdom,9,2015-11-26
+2272,United Kingdom,7,2015-11-25
+2273,France,8,2015-11-25
+2274,Canada,8,2015-11-25
+2275,United Kingdom,8,2015-11-24
+2276,United Kingdom,1,2015-11-24
+2277,United Kingdom,1,2015-11-23
+2278,United Kingdom,5,2015-11-23
+2279,United Kingdom,7,2015-11-23
+2280,United Kingdom,7,2015-11-22
+2281,United States,1,2015-11-21
+2282,United Kingdom,8,2015-11-20
+2283,Italy,6,2015-11-20
+2284,United Kingdom,6,2015-11-20
+2285,United Kingdom,3,2015-11-18
+2286,Ireland,2,2015-11-18
+2287,United Kingdom,3,2015-11-18
+2288,United Kingdom,7,2015-11-18
+2289,United Kingdom,8,2015-11-17
+2290,Ireland,2,2015-11-17
+2291,Australia,8,2015-11-17
+2292,Greece,8,2015-11-16
+2293,United Kingdom,1,2015-11-16
+2294,United Kingdom,10,2015-11-16
+2295,United Kingdom,5,2015-11-15
+2296,United Kingdom,3,2015-11-15
+2297,Germany,3,2015-11-15
+2298,United Kingdom,4,2015-11-14
+2299,United Kingdom,4,2015-11-14
+2300,United Kingdom,3,2015-11-14
+2301,New Zealand,3,2015-11-14
+2302,United Kingdom,5,2015-11-13
+2303,United Kingdom,5,2015-11-12
+2304,United Kingdom,3,2015-11-12
+2305,Thailand,3,2015-11-12
+2306,United Kingdom,1,2015-11-11
+2307,Australia,9,2015-11-10
+2308,United Kingdom,7,2015-11-10
+2309,India,3,2015-11-10
+2310,United Kingdom,5,2015-11-10
+2311,France,7,2015-11-10
+2312,United States,1,2015-11-10
+2313,Singapore,9,2015-11-09
+2314,United Kingdom,3,2015-11-09
+2315,United States,1,2015-11-08
+2316,Sweden,8,2015-11-08
+2317,United Kingdom,3,2015-11-07
+2318,United Kingdom,1,2015-11-06
+2319,United Kingdom,1,2015-11-06
+2320,Switzerland,10,2015-11-06
+2321,United States,10,2015-11-05
+2322,United Arab Emirates,4,2015-11-05
+2323,United Kingdom,5,2015-11-04
+2324,United Kingdom,9,2015-11-04
+2325,United Kingdom,6,2015-11-04
+2326,United States,10,2015-11-03
+2327,United States,3,2015-11-03
+2328,United Kingdom,9,2015-11-03
+2329,Singapore,3,2015-11-02
+2330,Israel,5,2015-11-02
+2331,United Kingdom,6,2015-11-01
+2332,United Kingdom,5,2015-11-01
+2333,United Kingdom,3,2015-11-01
+2334,United Kingdom,7,2015-10-31
+2335,Italy,9,2015-10-31
+2336,United Kingdom,5,2015-10-31
+2337,United Kingdom,6,2015-10-31
+2338,United Kingdom,9,2015-10-31
+2339,United Kingdom,1,2015-10-30
+2340,United Kingdom,8,2015-10-30
+2341,United Kingdom,7,2015-10-30
+2342,United Kingdom,10,2015-10-29
+2343,United Kingdom,9,2015-10-29
+2344,United States,2,2015-10-29
+2345,United Kingdom,7,2015-10-28
+2346,United States,1,2015-10-27
+2347,United Kingdom,2,2015-10-27
+2348,United Kingdom,3,2015-10-26
+2349,United Kingdom,5,2015-10-26
+2350,Australia,2,2015-10-26
+2351,United Kingdom,5,2015-10-26
+2352,Switzerland,3,2015-10-25
+2353,United Kingdom,5,2015-10-23
+2354,United Kingdom,2,2015-10-23
+2355,Australia,8,2015-10-22
+2356,United Kingdom,4,2015-10-22
+2357,Australia,2,2015-10-22
+2358,United Kingdom,9,2015-10-21
+2359,United Kingdom,4,2015-10-21
+2360,Australia,4,2015-10-21
+2361,United Kingdom,3,2015-10-21
+2362,United Kingdom,8,2015-10-20
+2363,Singapore,3,2015-10-19
+2364,United Kingdom,2,2015-10-18
+2365,United Kingdom,8,2015-10-18
+2366,United Kingdom,7,2015-10-17
+2367,United Kingdom,5,2015-10-17
+2368,United Kingdom,8,2015-10-16
+2369,United Kingdom,3,2015-10-16
+2370,United Kingdom,2,2015-10-16
+2371,United Kingdom,6,2015-10-16
+2372,Australia,1,2015-10-16
+2373,United Kingdom,9,2015-10-16
+2374,Malaysia,1,2015-10-15
+2375,United States,1,2015-10-15
+2376,United States,3,2015-10-15
+2377,United Kingdom,9,2015-10-14
+2378,United Kingdom,6,2015-10-14
+2379,United Kingdom,9,2015-10-14
+2380,Israel,3,2015-10-12
+2381,United Kingdom,7,2015-10-12
+2382,United Kingdom,4,2015-10-12
+2383,Spain,9,2015-10-11
+2384,United Kingdom,6,2015-10-11
+2385,Finland,1,2015-10-10
+2386,Netherlands,7,2015-10-10
+2387,United Kingdom,6,2015-10-09
+2388,United Kingdom,8,2015-10-09
+2389,United Kingdom,5,2015-10-09
+2390,United Kingdom,4,2015-10-09
+2391,Canada,4,2015-10-08
+2392,Australia,7,2015-10-07
+2393,United States,2,2015-10-07
+2394,United Kingdom,1,2015-10-07
+2395,United Kingdom,9,2015-10-07
+2396,Australia,6,2015-10-07
+2397,Germany,6,2015-10-07
+2398,United States,8,2015-10-06
+2399,United Kingdom,3,2015-10-06
+2400,United Kingdom,3,2015-10-05
+2401,United Kingdom,2,2015-10-05
+2402,United Kingdom,4,2015-10-04
+2403,United Kingdom,5,2015-10-03
+2404,United Kingdom,9,2015-10-02
+2405,United Kingdom,3,2015-10-02
+2406,United Kingdom,8,2015-10-02
+2407,Ireland,1,2015-10-01
+2408,Austria,6,2015-10-01
+2409,United States,5,2015-10-01
+2410,United Kingdom,4,2015-10-01
+2411,United Kingdom,5,2015-10-01
+2412,United States,1,2015-09-30
+2413,United Kingdom,8,2015-09-30
+2414,United Kingdom,4,2015-09-30
+2415,United Kingdom,8,2015-09-29
+2416,Canada,7,2015-09-27
+2417,Sweden,6,2015-09-27
+2418,United Kingdom,4,2015-09-27
+2419,Australia,7,2015-09-27
+2420,United Kingdom,3,2015-09-27
+2421,Canada,3,2015-09-27
+2422,United Kingdom,8,2015-09-26
+2423,United Kingdom,1,2015-09-26
+2424,United States,10,2015-09-26
+2425,United Kingdom,4,2015-09-25
+2426,United Kingdom,5,2015-09-24
+2427,United Kingdom,2,2015-09-24
+2428,Netherlands,8,2015-09-23
+2429,Netherlands,7,2015-09-23
+2430,United Kingdom,3,2015-09-23
+2431,United Kingdom,10,2015-09-23
+2432,United Kingdom,10,2015-09-22
+2433,Australia,1,2015-09-20
+2434,United Kingdom,5,2015-09-20
+2435,United Kingdom,3,2015-09-20
+2436,United Kingdom,7,2015-09-19
+2437,United Kingdom,3,2015-09-19
+2438,United Kingdom,1,2015-09-19
+2439,United Kingdom,9,2015-09-19
+2440,United Kingdom,8,2015-09-18
+2441,United Kingdom,1,2015-09-18
+2442,United Kingdom,2,2015-09-18
+2443,United Kingdom,3,2015-09-17
+2444,United Kingdom,4,2015-09-16
+2445,United Arab Emirates,2,2015-09-15
+2446,Canada,8,2015-09-15
+2447,United Kingdom,1,2015-09-15
+2448,Canada,9,2015-09-15
+2449,United States,1,2015-09-14
+2450,United Kingdom,10,2015-09-14
+2451,United Kingdom,4,2015-09-14
+2452,United Kingdom,7,2015-09-11
+2453,United Kingdom,8,2015-09-11
+2454,United Kingdom,7,2015-09-11
+2455,United Kingdom,2,2015-09-10
+2456,United Kingdom,1,2015-09-09
+2457,United Kingdom,1,2015-09-09
+2458,Spain,1,2015-09-08
+2459,Spain,1,2015-09-08
+2460,Italy,4,2015-09-08
+2461,United Kingdom,1,2015-09-08
+2462,United Kingdom,9,2015-09-07
+2463,South Africa,5,2015-09-07
+2464,United Kingdom,6,2015-09-07
+2465,United Kingdom,2,2015-09-07
+2466,United Kingdom,1,2015-09-06
+2467,United Kingdom,1,2015-09-06
+2468,United Kingdom,9,2015-09-06
+2469,United Kingdom,7,2015-09-05
+2470,United Kingdom,1,2015-09-05
+2471,United Kingdom,2,2015-09-05
+2472,United Kingdom,3,2015-09-04
+2473,United Kingdom,6,2015-09-04
+2474,United Kingdom,9,2015-09-04
+2475,United Kingdom,7,2015-09-03
+2476,United Kingdom,5,2015-09-02
+2477,United Kingdom,6,2015-09-02
+2478,United Kingdom,3,2015-09-02
+2479,Germany,1,2015-09-01
+2480,United Kingdom,2,2015-09-01
+2481,Australia,7,2015-09-01
+2482,United Kingdom,10,2015-08-31
+2483,United Kingdom,10,2015-08-31
+2484,Canada,5,2015-08-30
+2485,United Kingdom,3,2015-08-29
+2486,United Kingdom,8,2015-08-29
+2487,United Kingdom,3,2015-08-29
+2488,United Kingdom,5,2015-08-29
+2489,United Kingdom,3,2015-08-28
+2490,United Kingdom,3,2015-08-28
+2491,United Kingdom,8,2015-08-27
+2492,United Kingdom,1,2015-08-27
+2493,Australia,4,2015-08-27
+2494,United Kingdom,6,2015-08-27
+2495,United Kingdom,1,2015-08-26
+2496,Denmark,7,2015-08-26
+2497,United Kingdom,8,2015-08-26
+2498,United Kingdom,1,2015-08-26
+2499,Canada,3,2015-08-25
+2500,United Kingdom,1,2015-08-25
+2501,United Kingdom,10,2015-08-23
+2502,United Kingdom,2,2015-08-22
+2503,United States,8,2015-08-20
+2504,United States,6,2015-08-20
+2505,United Kingdom,8,2015-08-20
+2506,United Kingdom,2,2015-08-20
+2507,United Kingdom,8,2015-08-20
+2508,Belgium,10,2015-08-20
+2509,Australia,8,2015-08-18
+2510,Saudi Arabia,3,2015-08-18
+2511,Saudi Arabia,3,2015-08-18
+2512,United Kingdom,9,2015-08-18
+2513,Ghana,1,2015-08-18
+2514,United States,3,2015-08-17
+2515,United Kingdom,10,2015-08-17
+2516,United Kingdom,4,2015-08-17
+2517,Canada,10,2015-08-17
+2518,Belgium,9,2015-08-15
+2519,United Kingdom,4,2015-08-15
+2520,Saudi Arabia,1,2015-08-14
+2521,United States,2,2015-08-14
+2522,United Kingdom,1,2015-08-13
+2523,United States,1,2015-08-12
+2524,United Kingdom,7,2015-08-11
+2525,Italy,1,2015-08-11
+2526,Ireland,9,2015-08-11
+2527,United Kingdom,10,2015-08-11
+2528,United States,8,2015-08-11
+2529,Australia,3,2015-08-10
+2530,Italy,7,2015-08-09
+2531,Australia,4,2015-08-09
+2532,Australia,1,2015-08-09
+2533,United Kingdom,9,2015-08-09
+2534,United Kingdom,9,2015-08-09
+2535,United Kingdom,7,2015-08-08
+2536,United Kingdom,9,2015-08-08
+2537,United Kingdom,1,2015-08-08
+2538,United Kingdom,3,2015-08-07
+2539,United Kingdom,7,2015-08-06
+2540,United Kingdom,1,2015-08-06
+2541,United Kingdom,8,2015-08-06
+2542,Canada,1,2015-08-06
+2543,Australia,1,2015-08-06
+2544,United Kingdom,2,2015-08-04
+2545,South Africa,6,2015-08-04
+2546,South Africa,8,2015-08-04
+2547,United Kingdom,1,2015-08-04
+2548,United Kingdom,3,2015-08-04
+2549,Switzerland,1,2015-08-03
+2550,United Kingdom,3,2015-08-03
+2551,United Kingdom,4,2015-08-02
+2552,United States,7,2015-08-01
+2553,United Kingdom,3,2015-08-01
+2554,Australia,3,2015-08-01
+2555,United Kingdom,4,2015-07-31
+2556,South Africa,2,2015-07-31
+2557,South Korea,4,2015-07-29
+2558,Switzerland,7,2015-07-29
+2559,United Kingdom,2,2015-07-28
+2560,United Arab Emirates,1,2015-07-27
+2561,United Kingdom,10,2015-07-27
+2562,United Kingdom,3,2015-07-27
+2563,United Kingdom,1,2015-07-26
+2564,United Kingdom,10,2015-07-25
+2565,United Kingdom,9,2015-07-25
+2566,United Kingdom,1,2015-07-25
+2567,United Kingdom,1,2015-07-25
+2568,United Kingdom,7,2015-07-23
+2569,United States,8,2015-07-23
+2570,United Kingdom,4,2015-07-22
+2571,United Kingdom,3,2015-07-22
+2572,United States,1,2015-07-21
+2573,United Kingdom,3,2015-07-21
+2574,Singapore,6,2015-07-21
+2575,United Kingdom,7,2015-07-21
+2576,United States,7,2015-07-20
+2577,United States,7,2015-07-20
+2578,United States,8,2015-07-20
+2579,Australia,3,2015-07-20
+2580,United Kingdom,6,2015-07-18
+2581,United Kingdom,8,2015-07-17
+2582,United Kingdom,2,2015-07-17
+2583,United Kingdom,5,2015-07-17
+2584,United Kingdom,10,2015-07-16
+2585,United Kingdom,10,2015-07-16
+2586,United States,4,2015-07-15
+2587,United States,1,2015-07-15
+2588,United Kingdom,8,2015-07-14
+2589,United Kingdom,3,2015-07-14
+2590,Israel,9,2015-07-13
+2591,United Kingdom,8,2015-07-13
+2592,Australia,4,2015-07-12
+2593,Thailand,3,2015-07-12
+2594,United Kingdom,8,2015-07-12
+2595,United Kingdom,9,2015-07-12
+2596,United Kingdom,1,2015-07-11
+2597,Australia,9,2015-07-10
+2598,United States,7,2015-07-09
+2599,Australia,3,2015-07-09
+2600,Thailand,5,2015-07-09
+2601,Ireland,3,2015-07-08
+2602,Australia,2,2015-07-07
+2603,Australia,1,2015-07-07
+2604,Australia,2,2015-07-07
+2605,United Kingdom,3,2015-07-06
+2606,United Kingdom,10,2015-07-06
+2607,United Kingdom,1,2015-07-05
+2608,United Kingdom,1,2015-07-05
+2609,United Kingdom,10,2015-07-04
+2610,United States,5,2015-07-04
+2611,Canada,1,2015-07-04
+2612,Singapore,1,2015-07-03
+2613,Thailand,2,2015-07-03
+2614,Hong Kong,6,2015-07-02
+2615,United Kingdom,1,2015-07-01
+2616,United Kingdom,8,2015-07-01
+2617,Canada,8,2015-06-30
+2618,United Kingdom,3,2015-06-29
+2619,Thailand,2,2015-06-28
+2620,United Kingdom,3,2015-06-28
+2621,United Kingdom,4,2015-06-28
+2622,United Kingdom,8,2015-06-27
+2623,United Kingdom,3,2015-06-26
+2624,United Kingdom,8,2015-06-26
+2625,United Kingdom,8,2015-06-26
+2626,United Kingdom,4,2015-06-25
+2627,United Kingdom,2,2015-06-22
+2628,Australia,7,2015-06-21
+2629,Australia,3,2015-06-20
+2630,Luxembourg,8,2015-06-19
+2631,United Kingdom,3,2015-06-18
+2632,United Kingdom,7,2015-06-18
+2633,United Kingdom,10,2015-06-17
+2634,United Kingdom,1,2015-06-17
+2635,United Arab Emirates,9,2015-06-17
+2636,United States,1,2015-06-17
+2637,Australia,6,2015-06-17
+2638,United Kingdom,8,2015-06-17
+2639,United Kingdom,6,2015-06-16
+2640,United Kingdom,10,2015-06-14
+2641,United Arab Emirates,9,2015-06-14
+2642,Canada,6,2015-06-14
+2643,United Kingdom,9,2015-06-13
+2644,United Kingdom,1,2015-06-12
+2645,United Kingdom,8,2015-06-12
+2646,United Kingdom,9,2015-06-12
+2647,United Kingdom,9,2015-06-12
+2648,United Kingdom,10,2015-06-12
+2649,United Kingdom,4,2015-06-12
+2650,Sweden,5,2015-06-12
+2651,Ukraine,8,2015-06-12
+2652,South Africa,8,2015-06-11
+2653,United Kingdom,7,2015-06-11
+2654,United Kingdom,5,2015-06-11
+2655,United Kingdom,3,2015-06-11
+2656,United Kingdom,7,2015-06-11
+2657,United Kingdom,8,2015-06-11
+2658,United Kingdom,4,2015-06-07
+2659,United Kingdom,3,2015-06-07
+2660,United Kingdom,1,2015-06-07
+2661,Singapore,2,2015-06-07
+2662,Canada,1,2015-06-07
+2663,United Kingdom,2,2015-06-06
+2664,Cyprus,4,2015-06-06
+2665,United Kingdom,1,2015-06-06
+2666,United Kingdom,4,2015-06-04
+2667,United Kingdom,7,2015-06-04
+2668,United Kingdom,2,2015-06-01
+2669,United Kingdom,8,2015-06-01
+2670,Singapore,7,2015-06-01
+2671,United Kingdom,3,2015-05-31
+2672,United Kingdom,1,2015-05-31
+2673,United Kingdom,8,2015-05-31
+2674,United Kingdom,7,2015-05-31
+2675,United States,7,2015-05-31
+2676,United Kingdom,10,2015-05-31
+2677,Australia,2,2015-05-31
+2678,United Kingdom,1,2015-05-31
+2679,Australia,8,2015-05-31
+2680,United Kingdom,4,2015-05-31
+2681,Australia,2,2015-05-31
+2682,United Kingdom,5,2015-05-31
+2683,United Kingdom,10,2015-05-29
+2684,Botswana,9,2015-05-29
+2685,United Kingdom,3,2015-05-28
+2686,United Kingdom,7,2015-05-28
+2687,United Kingdom,7,2015-05-27
+2688,United Kingdom,9,2015-05-27
+2689,United Kingdom,8,2015-05-27
+2690,United Kingdom,9,2015-05-27
+2691,United Kingdom,8,2015-05-27
+2692,United Kingdom,8,2015-05-25
+2693,United Kingdom,9,2015-05-25
+2694,Italy,8,2015-05-22
+2695,Ireland,9,2015-05-22
+2696,Belgium,10,2015-05-22
+2697,United Kingdom,8,2015-05-22
+2698,United Kingdom,10,2015-05-22
+2699,United States,8,2015-05-20
+2700,United Kingdom,6,2015-05-20
+2701,Australia,10,2015-05-20
+2702,United States,8,2015-05-20
+2703,Spain,10,2015-05-20
+2704,Switzerland,1,2015-05-20
+2705,India,1,2015-05-20
+2706,United Kingdom,7,2015-05-20
+2707,United Kingdom,2,2015-05-20
+2708,United Kingdom,10,2015-05-20
+2709,Belgium,5,2015-05-18
+2710,United States,2,2015-05-18
+2711,Kuwait,10,2015-05-18
+2712,United Kingdom,9,2015-05-18
+2713,United Kingdom,10,2015-05-16
+2714,Spain,9,2015-05-16
+2715,Spain,9,2015-05-16
+2716,United Kingdom,10,2015-05-13
+2717,Belgium,9,2015-05-12
+2718,United Kingdom,10,2015-05-12
+2719,Argentina,7,2015-05-12
+2720,United Kingdom,10,2015-05-11
+2721,United Kingdom,10,2015-05-11
+2722,United Kingdom,10,2015-05-11
+2723,United Kingdom,9,2015-05-11
+2724,United Kingdom,9,2015-05-10
+2725,United Kingdom,7,2015-05-10
+2726,Belgium,9,2015-05-08
+2727,United Kingdom,10,2015-05-08
+2728,United Arab Emirates,2,2015-05-08
+2729,United Kingdom,9,2015-05-08
+2730,Belgium,10,2015-05-08
+2731,United Kingdom,9,2015-05-05
+2732,Australia,10,2015-05-04
+2733,Australia,2,2015-05-04
+2734,Spain,10,2015-05-02
+2735,United Kingdom,9,2015-05-02
+2736,Greece,3,2015-05-01
+2737,New Zealand,9,2015-05-01
+2738,United Kingdom,7,2015-04-30
+2739,United Kingdom,9,2015-04-30
+2740,United Kingdom,8,2015-04-30
+2741,United Kingdom,9,2015-04-30
+2742,United Kingdom,10,2015-04-26
+2743,United Kingdom,7,2015-04-24
+2744,United Kingdom,2,2015-04-24
+2745,United Kingdom,3,2015-04-24
+2746,United Kingdom,10,2015-04-24
+2747,Australia,6,2015-04-23
+2748,Turkey,1,2015-04-23
+2749,Australia,8,2015-04-23
+2750,United Kingdom,7,2015-04-23
+2751,United Kingdom,1,2015-04-23
+2752,Australia,4,2015-04-22
+2753,Australia,7,2015-04-22
+2754,United Kingdom,5,2015-04-22
+2755,Thailand,4,2015-04-22
+2756,United Kingdom,8,2015-04-20
+2757,Turkey,5,2015-04-19
+2758,United Kingdom,10,2015-04-19
+2759,United Kingdom,2,2015-04-19
+2760,United Kingdom,7,2015-04-19
+2761,United Kingdom,7,2015-04-19
+2762,United Kingdom,4,2015-04-17
+2763,United States,7,2015-04-17
+2764,United Kingdom,6,2015-04-17
+2765,United States,3,2015-04-17
+2766,United Kingdom,3,2015-04-16
+2767,United Kingdom,4,2015-04-16
+2768,United Kingdom,3,2015-04-14
+2769,United Kingdom,10,2015-04-14
+2770,United Kingdom,7,2015-04-14
+2771,United Kingdom,7,2015-04-14
+2772,United Kingdom,9,2015-04-14
+2773,United Kingdom,1,2015-04-14
+2774,Australia,1,2015-04-14
+2775,United Kingdom,3,2015-04-14
+2776,United Kingdom,8,2015-04-12
+2777,United Kingdom,9,2015-04-12
+2778,United Kingdom,10,2015-04-10
+2779,United Kingdom,7,2015-04-10
+2780,United Kingdom,5,2015-04-10
+2781,United Kingdom,9,2015-04-10
+2782,,2,2015-04-08
+2783,China,9,2015-04-08
+2784,United Kingdom,7,2015-04-08
+2785,Ireland,3,2015-04-06
+2786,United Kingdom,4,2015-04-06
+2787,Austria,10,2015-04-06
+2788,United States,10,2015-04-06
+2789,United Kingdom,6,2015-04-06
+2790,Austria,8,2015-04-04
+2791,United Kingdom,8,2015-04-01
+2792,United States,9,2015-04-01
+2793,Germany,1,2015-04-01
+2794,United Kingdom,7,2015-03-28
+2795,United Kingdom,7,2015-03-28
+2796,United Kingdom,5,2015-03-28
+2797,Belgium,7,2015-03-28
+2798,United Kingdom,1,2015-03-28
+2799,India,5,2015-03-26
+2800,United Kingdom,9,2015-03-26
+2801,United Kingdom,10,2015-03-26
+2802,United Kingdom,3,2015-03-25
+2803,United Kingdom,9,2015-03-25
+2804,United Kingdom,10,2015-03-25
+2805,United Kingdom,7,2015-03-25
+2806,Switzerland,7,2015-03-25
+2807,India,7,2015-03-23
+2808,United Kingdom,5,2015-03-20
+2809,United Kingdom,6,2015-03-20
+2810,Cyprus,3,2015-03-20
+2811,Australia,5,2015-03-19
+2812,Canada,8,2015-03-19
+2813,United Kingdom,2,2015-03-18
+2814,United Kingdom,2,2015-03-18
+2815,United Kingdom,6,2015-03-18
+2816,United Kingdom,4,2015-03-18
+2817,United Kingdom,8,2015-03-17
+2818,United Kingdom,5,2015-03-17
+2819,United Kingdom,3,2015-03-17
+2820,United Kingdom,8,2015-03-17
+2821,United Kingdom,5,2015-03-17
+2822,United Kingdom,2,2015-03-17
+2823,United Kingdom,4,2015-03-17
+2824,United Kingdom,9,2015-03-17
+2825,United Kingdom,1,2015-03-17
+2826,Ireland,2,2015-03-09
+2827,United Kingdom,8,2015-03-09
+2828,United Kingdom,9,2015-03-09
+2829,United Kingdom,4,2015-03-09
+2830,France,9,2015-03-04
+2831,United Kingdom,7,2015-03-04
+2832,United Kingdom,10,2015-03-04
+2833,United Kingdom,8,2015-03-04
+2834,United Kingdom,1,2015-03-04
+2835,United Kingdom,1,2015-03-04
+2836,United States,2,2015-03-04
+2837,United Kingdom,4,2015-03-04
+2838,United States,5,2015-03-04
+2839,United Kingdom,2,2015-02-24
+2840,Ireland,1,2015-02-24
+2841,United Kingdom,2,2015-02-24
+2842,India,5,2015-02-24
+2843,United Kingdom,3,2015-02-24
+2844,United Kingdom,7,2015-02-24
+2845,Australia,10,2015-02-18
+2846,United States,9,2015-02-18
+2847,United Kingdom,1,2015-02-18
+2848,United Kingdom,2,2015-02-18
+2849,United Kingdom,1,2015-02-18
+2850,United Kingdom,9,2015-02-18
+2851,United Kingdom,3,2015-02-18
+2852,United Kingdom,10,2015-02-18
+2853,United Kingdom,3,2015-02-18
+2854,United Kingdom,6,2015-02-18
+2855,United States,4,2015-02-18
+2857,United Kingdom,10,2015-02-11
+2858,Germany,10,2015-02-11
+2859,Australia,7,2015-02-11
+2860,United Kingdom,4,2015-02-11
+2861,United Kingdom,8,2015-02-11
+2862,United States,1,2015-02-11
+2863,Netherlands,4,2015-02-11
+2864,United Kingdom,6,2015-02-11
+2865,Australia,6,2015-02-06
+2866,Spain,7,2015-01-28
+2867,Australia,8,2015-01-28
+2868,United Kingdom,9,2015-01-28
+2869,United Kingdom,9,2015-01-28
+2870,United Kingdom,5,2015-01-28
+2871,United Kingdom,5,2015-01-28
+2872,United States,7,2015-01-28
+2873,United States,1,2015-01-28
+2874,United Kingdom,8,2015-01-28
+2875,United Kingdom,2,2015-01-28
+2876,United Kingdom,10,2015-01-26
+2877,United Kingdom,1,2015-01-26
+2878,United Kingdom,9,2015-01-26
+2879,United Kingdom,10,2015-01-26
+2880,United Kingdom,2,2015-01-26
+2881,United Kingdom,3,2015-01-23
+2882,United Kingdom,2,2015-01-23
+2883,Ireland,4,2015-01-23
+2884,United Kingdom,4,2015-01-23
+2885,United Kingdom,8,2015-01-23
+2886,Singapore,2,2015-01-23
+2887,Ireland,8,2015-01-21
+2888,United Kingdom,8,2015-01-21
+2889,United Kingdom,5,2015-01-21
+2890,United Kingdom,7,2015-01-21
+2891,Australia,10,2015-01-19
+2892,United Kingdom,6,2015-01-19
+2893,United Kingdom,3,2015-01-19
+2894,Spain,3,2015-01-19
+2895,United Kingdom,6,2015-01-19
+2896,United Kingdom,3,2015-01-19
+2897,United Kingdom,8,2015-01-19
+2898,United Kingdom,6,2015-01-19
+2899,Canada,8,2015-01-19
+2900,United States,10,2015-01-19
+2901,United Kingdom,1,2015-01-19
+2902,United Kingdom,1,2015-01-19
+2903,United Kingdom,10,2015-01-19
+2904,United Kingdom,6,2015-01-19
+2905,Belgium,6,2015-01-19
+2906,United Kingdom,8,2015-01-19
+2907,United Kingdom,10,2015-01-19
+2908,United Kingdom,10,2015-01-19
+2909,United States,10,2015-01-19
+2910,Australia,6,2015-01-19
+2911,United Kingdom,7,2015-01-19
+2912,United Kingdom,8,2015-01-19
+2913,United Kingdom,2,2015-01-19
+2914,United Kingdom,10,2015-01-19
+2915,Australia,10,2015-01-19
+2916,United Kingdom,6,2015-01-19
+2917,Australia,9,2015-01-14
+2918,United Kingdom,8,2015-01-14
+2919,United States,1,2015-01-14
+2920,United Kingdom,7,2015-01-14
+2921,United Kingdom,4,2015-01-14
+2922,United Kingdom,7,2015-01-14
+2923,United Kingdom,5,2015-01-14
+2924,United Kingdom,9,2015-01-11
+2925,United Kingdom,5,2015-01-11
+2926,Japan,3,2015-01-11
+2927,United Kingdom,10,2015-01-11
+2928,United Kingdom,7,2015-01-11
+2929,United Kingdom,8,2015-01-11
+2930,United Kingdom,1,2015-01-11
+2931,United Kingdom,10,2015-01-11
+2932,United Kingdom,2,2015-01-11
+2933,United Kingdom,1,2015-01-11
+2934,United Kingdom,2,2015-01-11
+2935,United Kingdom,2,2015-01-11
+2936,United Kingdom,2,2015-01-05
+2937,United Kingdom,6,2015-01-05
+2938,United Kingdom,2,2015-01-05
+2939,United Kingdom,2,2015-01-05
+2940,Austria,4,2015-01-05
+2941,United Kingdom,3,2015-01-05
+2942,United Kingdom,9,2015-01-05
+2943,United Kingdom,7,2014-12-31
+2944,United Kingdom,8,2014-12-31
+2945,United States,6,2014-12-31
+2946,United Kingdom,10,2014-12-31
+2947,United Kingdom,8,2014-12-31
+2948,United Kingdom,5,2014-12-31
+2949,United Kingdom,9,2014-12-31
+2950,Australia,5,2014-12-31
+2951,United States,3,2014-12-31
+2952,Ireland,7,2014-12-31
+2953,United Kingdom,1,2014-12-31
+2954,United Kingdom,1,2014-12-29
+2955,United Kingdom,5,2014-12-29
+2956,United Kingdom,1,2014-12-22
+2957,United Kingdom,10,2014-12-22
+2958,United Kingdom,10,2014-12-22
+2959,United Kingdom,1,2014-12-22
+2960,United Kingdom,3,2014-12-22
+2961,United States,6,2014-12-22
+2962,United States,4,2014-12-22
+2963,United Kingdom,10,2014-12-22
+2964,United Kingdom,10,2014-12-22
+2965,Austria,9,2014-12-18
+2966,Germany,10,2014-12-18
+2967,United Kingdom,10,2014-12-18
+2968,Australia,7,2014-12-18
+2969,Australia,9,2014-12-18
+2970,United States,1,2014-12-18
+2971,Netherlands,7,2014-12-18
+2972,United Kingdom,8,2014-12-18
+2973,United States,2,2014-12-18
+2974,United Kingdom,3,2014-12-18
+2975,United Kingdom,2,2014-12-10
+2976,United Kingdom,9,2014-12-10
+2977,United Kingdom,5,2014-12-10
+2978,United States,5,2014-12-10
+2980,United Kingdom,8,2014-12-10
+2981,United Kingdom,7,2014-12-10
+2982,United States,3,2014-12-04
+2983,Canada,5,2014-12-04
+2984,South Africa,8,2014-12-04
+2985,United States,1,2014-12-04
+2986,United States,10,2014-12-04
+2987,United Kingdom,10,2014-12-04
+2988,United Kingdom,8,2014-12-04
+2989,United Kingdom,4,2014-12-04
+2990,United Kingdom,6,2014-12-01
+2991,United Kingdom,10,2014-12-01
+2992,United Kingdom,8,2014-12-01
+2993,United Kingdom,10,2014-12-01
+2994,United States,9,2014-11-25
+2995,United States,9,2014-11-25
+2996,United Kingdom,6,2014-11-25
+2997,Australia,4,2014-11-25
+2998,Denmark,9,2014-11-25
+3000,United Kingdom,6,2014-11-25
+3001,Australia,4,2014-11-25
+3002,Denmark,9,2014-11-25
+3003,Australia,9,2014-11-20
+3004,United Kingdom,5,2014-11-20
+3005,Belgium,10,2014-11-20
+3006,Australia,7,2014-11-20
+3007,Ireland,4,2014-11-20
+3008,Singapore,9,2014-11-20
+3009,United States,10,2014-11-20
+3010,United Kingdom,9,2014-11-20
+3011,United Kingdom,8,2014-11-20
+3012,United Kingdom,10,2014-11-20
+3013,United Kingdom,4,2014-11-20
+3014,United States,6,2014-11-20
+3015,United Kingdom,5,2014-11-20
+3016,France,6,2014-11-20
+3017,United Kingdom,9,2014-11-20
+3018,United Kingdom,2,2014-11-20
+3019,United States,8,2014-11-20
+3020,United Kingdom,4,2014-11-20
+3021,United Kingdom,6,2014-11-17
+3022,United Kingdom,1,2014-11-17
+3023,United Kingdom,3,2014-11-17
+3024,United Kingdom,2,2014-11-17
+3025,Spain,9,2014-11-12
+3026,France,6,2014-11-12
+3027,United Kingdom,9,2014-11-12
+3028,United States,1,2014-11-12
+3029,United States,9,2014-11-12
+3030,Portugal,10,2014-11-12
+3031,Spain,9,2014-11-12
+3032,United States,9,2014-11-12
+3033,United Arab Emirates,2,2014-11-11
+3034,United Kingdom,8,2014-11-06
+3035,United Kingdom,5,2014-11-06
+3036,United Kingdom,3,2014-11-06
+3037,United Kingdom,4,2014-11-06
+3038,Australia,8,2014-11-06
+3039,United Kingdom,3,2014-11-06
+3040,United Kingdom,8,2014-11-06
+3041,United Kingdom,4,2014-11-06
+3042,Belgium,3,2014-11-05
+3043,United Kingdom,3,2014-11-03
+3044,United Kingdom,8,2014-11-03
+3045,United States,3,2014-11-03
+3046,United Kingdom,6,2014-11-03
+3047,United Kingdom,6,2014-11-03
+3048,United Kingdom,1,2014-11-03
+3049,United Kingdom,7,2014-11-03
+3050,Australia,1,2014-11-03
+3051,United Kingdom,4,2014-11-03
+3052,United Kingdom,9,2014-10-31
+3053,United Kingdom,2,2014-10-31
+3054,United Kingdom,9,2014-10-31
+3055,United Kingdom,3,2014-10-31
+3056,United Kingdom,7,2014-10-28
+3057,Australia,1,2014-10-28
+3058,Canada,1,2014-10-28
+3059,Denmark,9,2014-10-28
+3060,United States,9,2014-10-28
+3061,United Kingdom,1,2014-10-28
+3062,United Kingdom,9,2014-10-28
+3063,Australia,4,2014-10-28
+3064,Denmark,8,2014-10-28
+3065,United Kingdom,10,2014-10-28
+3066,Canada,9,2014-10-28
+3067,United States,10,2014-10-28
+3068,United Kingdom,1,2014-10-28
+3069,Canada,1,2014-10-28
+3070,Australia,10,2014-10-22
+3071,United Kingdom,1,2014-10-22
+3072,United Kingdom,1,2014-10-22
+3073,Trinidad & Tobago,5,2014-10-22
+3074,United States,10,2014-10-22
+3075,United Kingdom,5,2014-10-22
+3076,United Kingdom,5,2014-10-22
+3077,United Kingdom,8,2014-10-22
+3078,United Kingdom,6,2014-10-22
+3079,Norway,3,2014-10-22
+3080,United Kingdom,3,2014-10-22
+3081,United Kingdom,1,2014-10-22
+3082,,6,2014-10-20
+3083,United Kingdom,8,2014-10-20
+3084,United Kingdom,4,2014-10-20
+3085,United Kingdom,1,2014-10-20
+3086,United Kingdom,10,2014-10-20
+3087,United Kingdom,4,2014-10-20
+3088,United Kingdom,9,2014-10-20
+3089,United Kingdom,8,2014-10-13
+3090,United Kingdom,2,2014-10-13
+3091,Ireland,4,2014-10-13
+3092,Australia,9,2014-10-12
+3093,United Kingdom,7,2014-10-12
+3094,Mexico,1,2014-10-12
+3095,United Kingdom,2,2014-10-12
+3096,Australia,1,2014-10-12
+3097,United Kingdom,1,2014-10-12
+3098,United Kingdom,8,2014-10-12
+3099,Spain,2,2014-10-12
+3100,United Kingdom,2,2014-10-12
+3101,United Kingdom,9,2014-10-12
+3102,United Kingdom,9,2014-10-12
+3103,Australia,9,2014-10-12
+3104,Australia,2,2014-10-08
+3105,United Kingdom,1,2014-10-08
+3106,United Kingdom,1,2014-10-08
+3107,United Kingdom,1,2014-10-08
+3108,United Kingdom,10,2014-10-08
+3109,United States,2,2014-10-08
+3110,Australia,8,2014-10-05
+3111,United Kingdom,10,2014-10-05
+3112,United Kingdom,1,2014-10-05
+3113,Hong Kong,7,2014-10-05
+3114,Canada,1,2014-10-05
+3115,United States,6,2014-10-05
+3116,France,4,2014-10-05
+3117,United Kingdom,3,2014-10-05
+3118,United Kingdom,1,2014-10-05
+3119,United Kingdom,7,2014-10-05
+3120,South Africa,8,2014-10-01
+3121,United Kingdom,3,2014-10-01
+3122,United Kingdom,7,2014-10-01
+3123,United Kingdom,9,2014-10-01
+3124,United Kingdom,10,2014-10-01
+3125,Australia,8,2014-10-01
+3126,United Kingdom,2,2014-10-01
+3127,Portugal,9,2014-10-01
+3128,United Kingdom,7,2014-09-28
+3129,Austria,8,2014-09-28
+3130,United Kingdom,10,2014-09-28
+3131,United Kingdom,10,2014-09-28
+3132,United Kingdom,9,2014-09-28
+3133,United Kingdom,9,2014-09-28
+3134,United Kingdom,1,2014-09-28
+3135,United Kingdom,2,2014-09-24
+3136,United Kingdom,5,2014-09-24
+3137,Canada,7,2014-09-24
+3138,Austria,7,2014-09-22
+3139,Egypt,9,2014-09-22
+3140,United Kingdom,1,2014-09-22
+3141,United Kingdom,8,2014-09-22
+3142,United Kingdom,2,2014-09-18
+3143,United Kingdom,8,2014-09-18
+3144,United Kingdom,5,2014-09-18
+3145,United States,2,2014-09-18
+3146,United Kingdom,9,2014-09-18
+3147,Malaysia,8,2014-09-18
+3148,United States,1,2014-09-17
+3149,United Kingdom,1,2014-09-17
+3150,South Africa,7,2014-09-17
+3151,Australia,9,2014-09-17
+3152,United Kingdom,10,2014-09-17
+3153,United Kingdom,10,2014-09-17
+3154,United Kingdom,5,2014-09-17
+3155,United Kingdom,9,2014-09-17
+3156,Australia,1,2014-09-14
+3157,United Kingdom,7,2014-09-14
+3158,United States,2,2014-09-14
+3159,United Kingdom,10,2014-09-14
+3160,United Kingdom,9,2014-09-14
+3161,United Kingdom,1,2014-09-14
+3162,Ireland,1,2014-09-14
+3163,United Kingdom,8,2014-09-09
+3164,United Kingdom,1,2014-09-09
+3165,United Kingdom,7,2014-09-09
+3166,United Kingdom,5,2014-09-09
+3167,Canada,7,2014-09-09
+3168,United Kingdom,1,2014-09-09
+3169,United Kingdom,6,2014-09-06
+3170,United Kingdom,5,2014-09-06
+3171,United Kingdom,1,2014-09-06
+3172,United Kingdom,2,2014-09-06
+3173,United Kingdom,1,2014-09-06
+3174,United Kingdom,9,2014-09-06
+3175,United Kingdom,4,2014-09-06
+3176,Australia,1,2014-09-06
+3177,United States,8,2014-09-06
+3178,United Kingdom,4,2014-09-06
+3179,United Kingdom,9,2014-09-06
+3180,Australia,1,2014-09-06
+3181,United Kingdom,3,2014-09-01
+3182,United Kingdom,9,2014-09-01
+3183,United Kingdom,3,2014-09-01
+3184,United Kingdom,7,2014-09-01
+3185,United States,6,2014-09-01
+3186,United Kingdom,6,2014-09-01
+3187,United Kingdom,1,2014-09-01
+3188,United Kingdom,10,2014-09-01
+3189,Thailand,7,2014-09-01
+3190,United Kingdom,2,2014-09-01
+3191,United Kingdom,10,2014-09-01
+3192,United Kingdom,8,2014-08-28
+3193,United Kingdom,3,2014-08-28
+3194,United Kingdom,4,2014-08-28
+3195,United Kingdom,7,2014-08-28
+3196,United Kingdom,4,2014-08-28
+3197,United Kingdom,10,2014-08-28
+3198,United Kingdom,10,2014-08-28
+3199,United Kingdom,8,2014-08-28
+3200,United Kingdom,8,2014-08-28
+3201,United Kingdom,1,2014-08-26
+3202,Germany,7,2014-08-26
+3203,United States,8,2014-08-26
+3204,United Kingdom,5,2014-08-26
+3205,United Kingdom,1,2014-08-26
+3206,United States,9,2014-08-26
+3207,United Kingdom,7,2014-08-26
+3208,United Kingdom,3,2014-08-20
+3209,United Kingdom,6,2014-08-20
+3210,United Kingdom,7,2014-08-20
+3211,United Kingdom,3,2014-08-18
+3212,United Kingdom,10,2014-08-18
+3213,United States,2,2014-08-18
+3214,United States,8,2014-08-18
+3215,Ireland,4,2014-08-13
+3216,Germany,9,2014-08-13
+3217,United Kingdom,8,2014-08-13
+3218,United Kingdom,8,2014-08-13
+3219,United States,1,2014-08-13
+3220,Australia,10,2014-08-13
+3221,United Kingdom,9,2014-08-13
+3222,United Kingdom,3,2014-08-11
+3223,United Kingdom,9,2014-08-11
+3224,United Kingdom,10,2014-08-06
+3225,United Kingdom,1,2014-08-06
+3226,Canada,6,2014-08-04
+3227,Switzerland,7,2014-08-02
+3228,United Kingdom,1,2014-08-02
+3229,Australia,10,2014-08-02
+3230,Australia,8,2014-08-02
+3231,Canada,10,2014-07-31
+3232,Netherlands,5,2014-07-31
+3233,United Kingdom,8,2014-07-31
+3234,United Kingdom,4,2014-07-31
+3236,United Kingdom,7,2014-07-31
+3237,United Kingdom,1,2014-07-29
+3238,Netherlands,7,2014-07-29
+3239,United Kingdom,10,2014-07-29
+3240,United Kingdom,9,2014-07-29
+3241,United Kingdom,9,2014-07-29
+3242,United Kingdom,3,2014-07-29
+3243,Canada,4,2014-07-29
+3244,Netherlands,8,2014-07-29
+3245,Netherlands,8,2014-07-29
+3246,United States,2,2014-07-29
+3247,United Kingdom,7,2014-07-29
+3248,United States,3,2014-07-27
+3249,Hong Kong,9,2014-07-27
+3250,United Kingdom,6,2014-07-27
+3251,United Kingdom,7,2014-07-25
+3252,Switzerland,8,2014-07-22
+3253,Switzerland,9,2014-07-22
+3254,United Kingdom,6,2014-07-22
+3255,United Kingdom,2,2014-07-22
+3256,United Kingdom,3,2014-07-22
+3257,United Kingdom,9,2014-07-22
+3258,Saudi Arabia,7,2014-07-20
+3259,United Kingdom,8,2014-07-17
+3260,Sweden,10,2014-07-17
+3261,United Kingdom,3,2014-07-17
+3263,United Kingdom,3,2014-07-15
+3264,United Kingdom,6,2014-07-15
+3265,United Kingdom,8,2014-07-15
+3266,South Africa,9,2014-07-15
+3267,United Kingdom,6,2014-07-15
+3268,United Kingdom,10,2014-07-13
+3269,Ireland,7,2014-07-12
+3270,United Kingdom,7,2014-07-12
+3271,United Kingdom,8,2014-07-08
+3272,Australia,7,2014-07-08
+3273,United Kingdom,5,2014-07-08
+3274,United Kingdom,10,2014-07-08
+3275,United Kingdom,8,2014-07-08
+3276,United Kingdom,7,2014-07-06
+3277,United Kingdom,6,2014-07-06
+3278,United Kingdom,10,2014-07-06
+3279,Australia,1,2014-07-06
+3280,Australia,8,2014-07-06
+3281,United Kingdom,9,2014-07-06
+3282,United States,7,2014-07-06
+3283,New Zealand,5,2014-07-06
+3284,United Kingdom,4,2014-07-06
+3285,United Kingdom,2,2014-07-06
+3286,Netherlands,7,2014-07-01
+3287,Spain,10,2014-06-30
+3288,United Kingdom,6,2014-06-30
+3289,Denmark,5,2014-06-30
+3290,United Kingdom,5,2014-06-30
+3291,United Kingdom,7,2014-06-30
+3292,Australia,5,2014-06-30
+3293,Canada,4,2014-06-30
+3294,United Kingdom,7,2014-06-30
+3295,Thailand,2,2014-06-25
+3296,United Kingdom,10,2014-06-25
+3297,United Kingdom,6,2014-06-25
+3298,United Kingdom,1,2014-06-25
+3299,United Kingdom,2,2014-06-25
+3300,United Kingdom,3,2014-06-23
+3301,United Kingdom,9,2014-06-23
+3302,Ireland,7,2014-06-20
+3303,United Kingdom,5,2014-06-20
+3304,United States,1,2014-06-20
+3305,United Kingdom,10,2014-06-20
+3306,United Kingdom,10,2014-06-20
+3307,United Kingdom,5,2014-06-17
+3308,United Kingdom,1,2014-06-17
+3309,United Kingdom,3,2014-06-17
+3310,Canada,2,2014-06-17
+3311,United Kingdom,6,2014-06-16
+3312,United Kingdom,1,2014-06-16
+3313,United Kingdom,5,2014-06-16
+3314,United Kingdom,10,2014-06-16
+3315,United Kingdom,7,2014-06-16
+3316,United Kingdom,9,2014-06-16
+3317,United Kingdom,2,2014-06-16
+3318,United Kingdom,9,2014-06-13
+3319,Australia,10,2014-06-13
+3320,United Kingdom,10,2014-06-13
+3321,United Kingdom,8,2014-06-13
+3322,United Kingdom,10,2014-06-13
+3323,United Kingdom,8,2014-06-12
+3324,United Kingdom,1,2014-06-12
+3325,United Kingdom,9,2014-06-12
+3326,Canada,7,2014-06-12
+3327,United Kingdom,10,2014-06-12
+3328,United Kingdom,10,2014-06-12
+3329,United Kingdom,5,2014-06-10
+3330,United Kingdom,9,2014-06-10
+3331,United States,10,2014-06-09
+3332,United Kingdom,10,2014-06-09
+3333,United States,5,2014-06-09
+3334,United Kingdom,6,2014-06-09
+3335,United Kingdom,7,2014-06-09
+3336,United Kingdom,2,2014-06-09
+3337,United Kingdom,1,2014-06-09
+3338,United Kingdom,5,2014-06-09
+3339,Australia,2,2014-06-08
+3340,United Kingdom,9,2014-06-08
+3341,Russian Federation,6,2014-06-08
+3342,South Africa,10,2014-06-08
+3343,United Kingdom,1,2014-06-08
+3344,United Kingdom,4,2014-06-08
+3345,United Kingdom,2,2014-06-05
+3346,United Kingdom,9,2014-06-04
+3347,Barbados,10,2014-06-04
+3348,United Kingdom,7,2014-06-04
+3349,Canada,5,2014-06-02
+3350,United States,7,2014-06-01
+3351,Oman,5,2014-06-01
+3352,United States,10,2014-06-01
+3353,United Kingdom,6,2014-06-01
+3354,United Kingdom,2,2014-06-01
+3355,United Kingdom,9,2014-06-01
+3356,United Kingdom,8,2014-06-01
+3357,United Kingdom,4,2014-06-01
+3358,United Kingdom,9,2014-06-01
+3359,Australia,1,2014-06-01
+3360,United Kingdom,8,2014-06-01
+3361,United Kingdom,5,2014-05-29
+3362,United Kingdom,7,2014-05-28
+3363,United Kingdom,3,2014-05-28
+3364,Canada,6,2014-05-27
+3365,United Kingdom,1,2014-05-27
+3366,Bulgaria,2,2014-05-27
+3367,United Kingdom,6,2014-05-26
+3368,United Kingdom,5,2014-05-26
+3369,United Kingdom,8,2014-05-26
+3370,India,9,2014-05-25
+3371,United Kingdom,6,2014-05-24
+3372,United Kingdom,10,2014-05-20
+3373,Australia,10,2014-05-20
+3374,United Kingdom,3,2014-05-20
+3375,United Kingdom,7,2014-05-20
+3376,United Kingdom,2,2014-05-19
+3377,United Kingdom,2,2014-05-18
+3378,United Kingdom,6,2014-05-18
+3379,United Kingdom,7,2014-05-18
+3380,United Kingdom,10,2014-05-18
+3381,United Kingdom,1,2014-05-18
+3382,United Kingdom,3,2014-05-17
+3383,United Kingdom,2,2014-05-15
+3384,United Kingdom,9,2014-05-15
+3385,United Kingdom,8,2014-05-15
+3386,United States,7,2014-05-13
+3387,United Kingdom,1,2014-05-12
+3388,Belgium,9,2014-05-11
+3389,India,8,2014-05-11
+3390,United Kingdom,10,2014-05-11
+3391,United Kingdom,8,2014-05-11
+3392,United Kingdom,9,2014-05-11
+3393,United Kingdom,10,2014-05-11
+3394,Belgium,10,2014-05-11
+3395,United Kingdom,8,2014-05-11
+3396,Australia,9,2014-05-10
+3397,United Kingdom,2,2014-05-10
+3398,United Kingdom,3,2014-05-10
+3399,Australia,2,2014-05-08
+3400,United Kingdom,7,2014-05-07
+3401,United Kingdom,5,2014-05-07
+3402,United Kingdom,8,2014-05-07
+3403,United Kingdom,1,2014-05-07
+3404,United Kingdom,6,2014-05-06
+3405,United Kingdom,7,2014-05-06
+3406,United Kingdom,10,2014-05-05
+3407,United Kingdom,10,2014-05-04
+3408,United Kingdom,1,2014-05-03
+3409,United Kingdom,2,2014-05-03
+3410,United Kingdom,8,2014-04-30
+3411,United Kingdom,8,2012-08-30
+3412,United Kingdom,4,2012-08-29
+3413,United Kingdom,1,2012-08-29
+3414,United Kingdom,4,2012-08-29
+3415,United Kingdom,4,2012-08-29
+3416,United Kingdom,4,2012-08-29
+3417,United Kingdom,6,2012-08-29
+3418,Canada,8,2012-08-29
+3419,Ireland,5,2012-08-29
+3420,United Kingdom,10,2012-08-29
+3421,United Kingdom,7,2012-08-29
+3422,United Kingdom,9,2012-08-28
+3423,United Kingdom,5,2011-10-12
+3424,United States,4,2011-10-11
+3425,United Kingdom,4,2011-10-09
